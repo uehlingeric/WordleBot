@@ -1,0 +1,2315 @@
+_____	courd	_____	nymph	_Y___	jiffy	_GY_G	fizzy	GGGGG
+_____	courd	_____	nymph	_Y___	jiffy	GGGGG		
+_____	courd	_____	nymph	YY___	kinky	GGGGG		
+_____	courd	_____	nymph	GY___	ninny	GGGGG		
+_____	courd	_____	nymph	YG___	vying	GGGGG		
+_____	courd	_____	nymph	Y_Y__	minim	GGGGG		
+_____	courd	_____	nymph	_Y_Y_	piggy	GGGGG		
+_____	courd	_____	nymph	YY_Y_	pinky	GGGGG		
+_____	courd	_____	nymph	_GYY_	pygmy	GGGGG		
+_____	courd	_____	nymph	_YGG_	wimpy	GGGGG		
+_____	courd	_____	nymph	____Y	whiff	GGGGG		
+_____	courd	_____	nymph	YY__Y	whiny	GGGGG		
+_____	courd	_____	nymph	_Y_GY	hippy	GGGGG		
+_____	courd	_____	nymph	GGGGG				
+_____	courd	Y____	wimpy	_Y___	icing	GGGGG		
+_____	courd	Y____	wimpy	GY___	which	GGGGG		
+_____	courd	Y____	wimpy	_G___	finch	GGGGG		
+_____	courd	Y____	wimpy	GG___	winch	GGGGG		
+_____	courd	Y____	wimpy	_GG__	mimic	GGGGG		
+_____	courd	Y____	wimpy	_G_Y_	pinch	GGGGG		
+_____	courd	Y____	wimpy	_G_YG	picky	GGGGG		
+_____	courd	G____	civic	GY__Y	chick	GGGGG		
+_____	courd	G____	civic	GG__Y	cinch	GGGGG		
+_____	courd	G____	civic	G__GG	cynic	GGGGG		
+_____	courd	G____	civic	GGGGG				
+_____	courd	_Y___	whoop	__Y__	bingo	GGGGG		
+_____	courd	_Y___	whoop	Y_Y__	owing	GGGGG		
+_____	courd	_Y___	whoop	Y_G__	known	GGGGG		
+_____	courd	_Y___	whoop	___G_	inbox	GGGGG		
+_____	courd	_Y___	whoop	__YG_	onion	GGGGG		
+_____	courd	_Y___	whoop	_YY_Y	hippo	GGGGG		
+_____	courd	_Y___	whoop	_GG_Y	phony	GGGGG		
+_____	courd	_Y___	whoop	GGGGG				
+_____	courd	YY___	knock	GGGGG				
+_____	courd	GY___	chock	GGGGG				
+_____	courd	_G___	boozy	_G___	going	GGGGG		
+_____	courd	_G___	boozy	GGY__	bongo	GGGGG		
+_____	courd	_G___	boozy	_G__G	foggy	_G__G	poppy	GGGGG
+_____	courd	_G___	boozy	_G__G	foggy	GGGGG		
+_____	courd	_G___	boozy	YG__G	hobby	GGGGG		
+_____	courd	_G___	boozy	GG__G	bobby	GGGGG		
+_____	courd	_G___	boozy	_GG_G	goofy	GGGGG		
+_____	courd	_G___	boozy	GGG_G	booby	GGGGG		
+_____	courd	_G___	boozy	_GGGG	woozy	GGGGG		
+_____	courd	_G___	boozy	GGGGG				
+_____	courd	YG___	ionic	_G__Y	pooch	GGGGG		
+_____	courd	YG___	ionic	GGGGG				
+_____	courd	GG___	conic	GG___	comfy	GGGGG		
+_____	courd	GG___	conic	GGG_Y	conch	GGGGG		
+_____	courd	GG___	conic	GG_GG	comic	GGGGG		
+_____	courd	GG___	conic	GGGGG				
+_____	courd	__Y__	gimpy	YY___	fungi	GGGGG		
+_____	courd	__Y__	gimpy	_Y_Y_	unzip	GGGGG		
+_____	courd	__Y__	gimpy	__GG_	humph	GGGGG		
+_____	courd	__Y__	gimpy	____G	funny	GG__G	fuzzy	GGGGG
+_____	courd	__Y__	gimpy	____G	funny	_GG_G	hunky	GGGGG
+_____	courd	__Y__	gimpy	____G	funny	GGG_G	funky	GGGGG
+_____	courd	__Y__	gimpy	____G	funny	_GGGG	bunny	GGGGG
+_____	courd	__Y__	gimpy	____G	funny	GGGGG		
+_____	courd	__Y__	gimpy	Y___G	buggy	GGGGG		
+_____	courd	__Y__	gimpy	_Y__G	unify	GGGGG		
+_____	courd	__Y__	gimpy	__G_G	mummy	GGGGG		
+_____	courd	__Y__	gimpy	G_G_G	gummy	GGGGG		
+_____	courd	__Y__	gimpy	___YG	puffy	GGGGG		
+_____	courd	__Y__	gimpy	___GG	puppy	GGGGG		
+_____	courd	__Y__	gimpy	G__GG	guppy	GGGGG		
+_____	courd	__Y__	gimpy	__GGG	jumpy	GGGGG		
+_____	courd	Y_Y__	hempy	_____	quick	GGGGG		
+_____	courd	Y_Y__	hempy	Y____	bunch	GGGGG		
+_____	courd	Y_Y__	hempy	G____	hunch	GGGGG		
+_____	courd	Y_Y__	hempy	Y_Y__	munch	GGGGG		
+_____	courd	Y_Y__	hempy	___Y_	pubic	GGGGG		
+_____	courd	Y_Y__	hempy	Y__Y_	punch	GGGGG		
+_____	courd	Y_Y__	hempy	____G	juicy	GGGGG		
+_____	courd	Y_Y__	hempy	__Y_G	mucky	GGGGG		
+_____	courd	G_Y__	cumin	GG_G_	cubic	GGGGG		
+_____	courd	G_Y__	cumin	GGGGG				
+_____	courd	_YY__	jumbo	_Y__Y	union	GGGGG		
+_____	courd	_YY__	jumbo	_YY_Y	opium	GGGGG		
+_____	courd	_YY__	jumbo	_GYYY	buxom	GGGGG		
+_____	courd	_YY__	jumbo	_GGGG	gumbo	GGGGG		
+_____	courd	_YY__	jumbo	GGGGG				
+_____	courd	G_G__	chunk	GGG__	chump	GGGGG		
+_____	courd	G_G__	chunk	GGG_G	chuck	GGGGG		
+_____	courd	G_G__	chunk	GGGGG				
+_____	courd	_GG__	bough	_GGY_	young	GGGGG		
+_____	courd	_GG__	bough	GGGGG				
+_____	courd	YGG__	vouch	_GGGG	pouch	GGGGG		
+_____	courd	YGG__	vouch	GGGGG				
+_____	courd	GGG__	couch	GGG_G	cough	GGGGG		
+_____	courd	GGG__	couch	GGGGG				
+_____	courd	___Y_	buggy	G____	brink	GGGGG		
+_____	courd	___Y_	buggy	__Y__	wring	GGGGG		
+_____	courd	___Y_	buggy	G_Y__	bring	GGGGG		
+_____	courd	___Y_	buggy	____G	privy	GGGGG		
+_____	courd	___Y_	buggy	G___G	briny	GGGGG		
+_____	courd	___Y_	buggy	__Y_G	grimy	GGGGG		
+_____	courd	Y__Y_	prick	_YYG_	birch	GGGGG		
+_____	courd	Y__Y_	prick	_GGGG	brick	GGGGG		
+_____	courd	Y__Y_	prick	GGGGG				
+_____	courd	G__Y_	crimp	GGG__	crick	GGGGG		
+_____	courd	G__Y_	crimp	GGGGG				
+_____	courd	_Y_Y_	gimpy	_____	frown	_GG__	brook	GGGGG
+_____	courd	_Y_Y_	gimpy	_____	frown	_GGGG	brown	GGGGG
+_____	courd	_Y_Y_	gimpy	_____	frown	GGGGG		
+_____	courd	_Y_Y_	gimpy	Y____	wrong	GGGGG		
+_____	courd	_Y_Y_	gimpy	G____	grown	GGGGG		
+_____	courd	_Y_Y_	gimpy	_Y___	rhino	GGGGG		
+_____	courd	_Y_Y_	gimpy	GY___	groin	GGGGG		
+_____	courd	_Y_Y_	gimpy	YG___	vigor	_GGGG	rigor	GGGGG
+_____	courd	_Y_Y_	gimpy	YG___	vigor	GGGGG		
+_____	courd	_Y_Y_	gimpy	__Y__	broom	GGGGG		
+_____	courd	_Y_Y_	gimpy	G_Y__	groom	GGGGG		
+_____	courd	_Y_Y_	gimpy	_GY__	minor	GGGGG		
+_____	courd	_Y_Y_	gimpy	___Y_	proof	GGGGG		
+_____	courd	_Y_Y_	gimpy	Y__Y_	prong	GGGGG		
+_____	courd	_Y_Y_	gimpy	_Y_Y_	prior	GGGGG		
+_____	courd	_Y_Y_	gimpy	_YYY_	primo	GGGGG		
+_____	courd	_Y_Y_	gimpy	_Y__G	irony	GGGGG		
+_____	courd	_Y_Y_	gimpy	___YG	proxy	GGGGG		
+_____	courd	YY_Y_	frock	GGGGG				
+_____	courd	GY_Y_	heron	__YY_	crock	GGGGG		
+_____	courd	GY_Y_	heron	Y_YY_	choir	GGGGG		
+_____	courd	GY_Y_	heron	__YG_	crook	GGGGG		
+_____	courd	GY_Y_	heron	__YYY	crony	GGGGG		
+_____	courd	GY_Y_	heron	__YYG	crown	GGGGG		
+_____	courd	_G_Y_	moron	GGG__	morph	GGGGG		
+_____	courd	_G_Y_	moron	YGYY_	roomy	GGGGG		
+_____	courd	_G_Y_	moron	_GGY_	forgo	GGGGG		
+_____	courd	_G_Y_	moron	_GG_Y	horny	GGGGG		
+_____	courd	_G_Y_	moron	_GYGY	honor	GGGGG		
+_____	courd	_G_Y_	moron	_GY_G	robin	GGGGG		
+_____	courd	_G_Y_	moron	GGGGG				
+_____	courd	YG_Y_	porch	_GYY_	rocky	GGGGG		
+_____	courd	YG_Y_	porch	GGGGG				
+_____	courd	GG_Y_	corny	GGGGG				
+_____	courd	__YY_	murky	_GY_G	rugby	GGGGG		
+_____	courd	__YY_	murky	GGGGG				
+_____	courd	Y_YY_	incur	GGGGG				
+_____	courd	G_YY_	curvy	GGGGG				
+_____	courd	_YYY_	furor	_YYY_	group	GGGGG		
+_____	courd	_YYY_	furor	_G_GG	humor	GGGGG		
+_____	courd	_YYY_	furor	_GYGG	rumor	GGGGG		
+_____	courd	_YYY_	furor	_GGGG	juror	GGGGG		
+_____	courd	_YYY_	furor	GGGGG				
+_____	courd	YYYY_	occur	GGGGG				
+_____	courd	GYYY_	croup	GYYY_	curio	GGGGG		
+_____	courd	GYYY_	croup	GGGGG				
+_____	courd	_GYY_	forum	GGGGG				
+_____	courd	__GY_	wrung	_GG_Y	gruff	GGGGG		
+_____	courd	__GY_	wrung	GGGGG				
+_____	courd	G_GY_	crump	GGGG_	crumb	GGGGG		
+_____	courd	G_GY_	crump	GGGGG				
+_____	courd	_GGY_	rough	GGGGG				
+_____	courd	___G_	myrrh	GGGGG				
+_____	courd	G__G_	chirp	GGGGG				
+_____	courd	_Y_G_	ivory	GGGGG				
+_____	courd	YY_G_	micro	GGGGG				
+_____	courd	_G_G_	worry	GGGGG				
+_____	courd	__YG_	furry	_G_G_	quirk	GGGGG		
+_____	courd	__YG_	furry	_GGGG	hurry	GGGGG		
+_____	courd	__YG_	furry	GGGGG				
+_____	courd	G_YG_	curry	GGGGG				
+_____	courd	G_GG_	churn	GGGGG				
+_____	courd	_GGG_	mourn	GGGGG				
+_____	courd	____Y	dying	YYY__	biddy	GGGGG		
+_____	courd	____Y	dying	GYY__	dizzy	GGGGG		
+_____	courd	____Y	dying	YYYY_	windy	GGGGG		
+_____	courd	____Y	dying	YYY_Y	giddy	GGGGG		
+_____	courd	____Y	dying	GYYYY	dingy	GGGGG		
+_____	courd	____Y	dying	GGGGG				
+_____	courd	_Y__Y	widow	_GYY_	dingo	GGGGG		
+_____	courd	_Y__Y	widow	_YYG_	idiom	GGGGG		
+_____	courd	_Y__Y	widow	GGGGG				
+_____	courd	_G__Y	howdy	_G_Y_	doing	GGGGG		
+_____	courd	_G__Y	howdy	_G_YG	dodgy	GGGGG		
+_____	courd	_G__Y	howdy	_GGYG	downy	GGGGG		
+_____	courd	_G__Y	howdy	_G_GG	goody	_GGGG	moody	GGGGG
+_____	courd	_G__Y	howdy	_G_GG	goody	GGGGG		
+_____	courd	_G__Y	howdy	_GYGG	woody	GGGGG		
+_____	courd	_G__Y	howdy	_GGGG	dowdy	GGGGG		
+_____	courd	_G__Y	howdy	GGGGG				
+_____	courd	GG__Y	condo	GGGGG				
+_____	courd	__Y_Y	dumpy	YG__G	buddy	GGGGG		
+_____	courd	__Y_Y	dumpy	YGY_G	muddy	GGGGG		
+_____	courd	__Y_Y	dumpy	GGG_G	dummy	GGGGG		
+_____	courd	__Y_Y	dumpy	YG_YG	pudgy	GGGGG		
+_____	courd	__Y_Y	dumpy	GGGGG				
+_____	courd	Y_Y_Y	duchy	GGGGG				
+_____	courd	_GG_Y	dough	GGGGG				
+_____	courd	___YY	drink	GGGGG				
+_____	courd	_Y_YY	droop	GGG__	drown	GGGGG		
+_____	courd	_Y_YY	droop	GGGGG				
+_____	courd	_G_YY	rowdy	YG_Y_	donor	GGGGG		
+_____	courd	_G_YY	rowdy	YGYGG	wordy	GGGGG		
+_____	courd	_G_YY	rowdy	GGGGG				
+_____	courd	__YYY	ruddy	GGGGG				
+_____	courd	__GYY	drunk	GGGGG				
+_____	courd	_Y_GY	hydro	GGGGG				
+_____	courd	_G_GY	dowry	GGGGG				
+_____	courd	____G	vivid	GGGGG				
+_____	courd	_Y__G	ovoid	GGGGG				
+_____	courd	__Y_G	humid	_Y_GG	undid	GGGGG		
+_____	courd	__Y_G	humid	GGGGG				
+_____	courd	_GG_G	bumph	_Y___	found	_GGGG	wound	GGGGG
+_____	courd	_GG_G	bumph	_Y___	found	GGGGG		
+_____	courd	_GG_G	bumph	GY___	bound	GGGGG		
+_____	courd	_GG_G	bumph	_YY__	mound	GGGGG		
+_____	courd	_GG_G	bumph	_Y_Y_	pound	GGGGG		
+_____	courd	_GG_G	bumph	_Y__Y	hound	GGGGG		
+_____	courd	___YG	grind	YYY_G	rigid	GGGGG		
+_____	courd	___YG	grind	GGGGG				
+_____	courd	_Y_YG	brood	_GG_G	frond	GGGGG		
+_____	courd	_Y_YG	brood	GGGGG				
+_____	courd	GY_YG	crowd	GGGGG				
+_____	courd	_YYYG	proud	GGGGG				
+_____	courd	__GYG	druid	GGGGG				
+_____	courd	_GGYG	round	GGGGG				
+_____	courd	_Y_GG	fjord	GGGGG				
+_____	courd	GY_GG	chord	GGGGG				
+_____	courd	_GGGG	gourd	GGGGG				
+Y____	mucho	_____	brisk	__YY_	wispy	GGGGG		
+Y____	mucho	_____	brisk	___G_	gypsy	GGGGG		
+Y____	mucho	_____	brisk	__YG_	gipsy	GGGGG		
+Y____	mucho	_____	brisk	_YYYY	risky	GGGGG		
+Y____	mucho	_____	brisk	_GGGG	frisk	GGGGG		
+Y____	mucho	_____	brisk	GGGGG				
+Y____	mucho	Y____	prism	GGGGG				
+Y____	mucho	G____	missy	GGGGG				
+Y____	mucho	_Y___	using	GG___	usurp	GGGGG		
+Y____	mucho	_Y___	using	YYY__	virus	GGGGG		
+Y____	mucho	_Y___	using	GGGGG				
+Y____	mucho	GY___	minus	GGGGG				
+Y____	mucho	_G___	dusky	_GG_G	fussy	GGGGG		
+Y____	mucho	_G___	dusky	GGGGG				
+Y____	mucho	GG___	musky	GGGGG				
+Y____	mucho	__Y__	crisp	GGGGG				
+Y____	mucho	GGY__	music	GGGGG				
+Y____	mucho	_YG__	ficus	GGGGG				
+Y____	mucho	GGG__	mucus	GGGGG				
+Y____	mucho	___Y_	whisk	GGGGG				
+Y____	mucho	_Y_Y_	brush	GGGGG				
+Y____	mucho	_G_Y_	husky	GGG_G	hussy	GGGGG		
+Y____	mucho	_G_Y_	husky	GGGGG				
+Y____	mucho	YG_Y_	humus	GGGGG				
+Y____	mucho	_YYY_	crush	GGGGG				
+Y____	mucho	___G_	fishy	GGGGG				
+Y____	mucho	_G_G_	pushy	_GGGG	bushy	GGGGG		
+Y____	mucho	_G_G_	pushy	GGGGG				
+Y____	mucho	GG_G_	mushy	GGGGG				
+Y____	mucho	____Y	dross	__YY_	bison	GGGGG		
+Y____	mucho	____Y	dross	_YYY_	visor	GGGGG		
+Y____	mucho	____Y	dross	__YG_	noisy	GGGGG		
+Y____	mucho	____Y	dross	__GG_	kiosk	GGGGG		
+Y____	mucho	____Y	dross	__YGY	bossy	GGGGG		
+Y____	mucho	____Y	dross	_GGGG	gross	GGGGG		
+Y____	mucho	____Y	dross	GGGGG				
+Y____	mucho	Y___Y	bosom	GGGGG				
+Y____	mucho	G___Y	mossy	GGGGG				
+Y____	mucho	_Y__Y	bonus	GGGGG				
+Y____	mucho	__Y_Y	cross	GGGGG				
+Y____	mucho	_YG_Y	focus	GGGGG				
+Y____	mucho	__Y_G	disco	GGGGG				
+G____	unrip	_____	shock	G_Y__	soggy	GGGGG		
+G____	unrip	_____	shock	GGG__	showy	GGGGG		
+G____	unrip	_____	shock	G_GY_	scoff	GGGGG		
+G____	unrip	_____	shock	G_G_Y	smoky	GGGGG		
+G____	unrip	_____	shock	GGG_G	shook	GGGGG		
+G____	unrip	_____	shock	G_GGG	smock	GGGGG		
+G____	unrip	_____	shock	GGGGG				
+G____	unrip	Y____	shuck	GGG__	shush	GGGGG		
+G____	unrip	Y____	shuck	GGGGG				
+G____	unrip	_Y___	shown	G_Y_Y	synod	GGGGG		
+G____	unrip	_Y___	shown	G_GYG	swoon	GGGGG		
+G____	unrip	_Y___	shown	GGGGG				
+G____	unrip	YY___	goner	__Y__	skunk	GGGGG		
+G____	unrip	YY___	goner	Y_Y__	swung	GGGGG		
+G____	unrip	YY___	goner	_GY__	sound	GGGGG		
+G____	unrip	YY___	goner	__G__	sunny	GGGGG		
+G____	unrip	_G___	snowy	GGGGG				
+G____	unrip	YG___	snuck	GGG__	snuff	GGGGG		
+G____	unrip	YG___	snuck	GGGGG				
+G____	unrip	__Y__	sword	GGGGG				
+G____	unrip	Y_Y__	scour	GGGGG				
+G____	unrip	_YY__	bench	__Y__	sworn	GGGGG		
+G____	unrip	_YY__	bench	__YY_	scorn	GGGGG		
+G____	unrip	_YY__	bench	__Y_Y	shorn	GGGGG		
+G____	unrip	__G__	sorry	GGGGG				
+G____	unrip	Y_G__	shrub	G_GG_	scrum	GGGGG		
+G____	unrip	Y_G__	shrub	GGGG_	shrug	GGGGG		
+G____	unrip	Y_G__	shrub	G_GGG	scrub	GGGGG		
+G____	unrip	Y_G__	shrub	GGGGG				
+G____	unrip	___Y_	sissy	GY___	skiff	GGGGG		
+G____	unrip	___Y_	sissy	GY_G_	swish	GGGGG		
+G____	unrip	___Y_	sissy	GGGGG				
+G____	unrip	Y__Y_	sushi	GGGGG				
+G____	unrip	_Y_Y_	shiny	G_GY_	scion	GGGGG		
+G____	unrip	_Y_Y_	shiny	G_GG_	swing	GGGGG		
+G____	unrip	_Y_Y_	shiny	GGGGG				
+G____	unrip	YY_Y_	suing	GGGGG				
+G____	unrip	_G_Y_	sniff	GGGGG				
+G____	unrip	__YY_	shirk	G_GGG	smirk	GGGGG		
+G____	unrip	__YY_	shirk	GGGGG				
+G____	unrip	Y__G_	squib	GGGGG				
+G____	unrip	_Y_G_	sonic	GGGGG				
+G____	unrip	____Y	spoof	GGGG_	spook	GGGGG		
+G____	unrip	____Y	spoof	GGGGG				
+G____	unrip	_Y__Y	spoon	GGGGG				
+G____	unrip	YY__Y	spunk	GGGGG				
+G____	unrip	YYY_Y	spurn	GGGGG				
+G____	unrip	___YY	spicy	GGG_G	spiky	GGGGG		
+G____	unrip	___YY	spicy	GGGGG				
+G____	unrip	_Y_YY	spiny	GGGGG				
+G____	unrip	__GGY	sprig	GGGGG				
+G____	unrip	____G	scoop	G_GGG	swoop	GGGGG		
+G____	unrip	____G	scoop	GGGGG				
+G____	unrip	_G__G	snoop	GGGGG				
+G____	unrip	Y_G_G	syrup	GGGGG				
+G____	unrip	___YG	skimp	GGGGG				
+_Y___	brond	_____	champ	__Y__	affix	GGGGG		
+_Y___	brond	_____	champ	__G__	guava	GGGGG		
+_Y___	brond	_____	champ	Y_G__	quack	GGGGG		
+_Y___	brond	_____	champ	_GG__	khaki	GGGGG		
+_Y___	brond	_____	champ	YGG__	whack	GGGGG		
+_Y___	brond	_____	champ	GGG__	chaff	GGGGG		
+_Y___	brond	_____	champ	__Y_Y	pizza	GGGGG		
+_Y___	brond	_____	champ	GGGGG				
+_Y___	brond	Y____	aback	GGGGG				
+_Y___	brond	_Y___	chair	__G_Y	quark	GGGGG		
+_Y___	brond	_Y___	chair	_GG_Y	wharf	GGGGG		
+_Y___	brond	_Y___	chair	GGG_Y	charm	GGGGG		
+_Y___	brond	_Y___	chair	G_YYY	circa	GGGGG		
+_Y___	brond	_Y___	chair	__Y_G	augur	GGGGG		
+_Y___	brond	_Y___	chair	Y_YYG	vicar	GGGGG		
+_Y___	brond	_Y___	chair	G_YYG	cigar	GGGGG		
+_Y___	brond	_Y___	chair	GGGGG				
+_Y___	brond	YY___	rumba	YYYYG	umbra	GGGGG		
+_Y___	brond	YY___	rumba	GGGGG				
+_Y___	brond	_G___	copay	Y__Y_	wrack	GGGGG		
+_Y___	brond	_G___	copay	G__Y_	crack	GGGGG		
+_Y___	brond	_G___	copay	__YY_	graph	GGGGG		
+_Y___	brond	_G___	copay	G_YY_	cramp	GGGGG		
+_Y___	brond	_G___	copay	___G_	friar	GGGGG		
+_Y___	brond	_G___	copay	___YG	gravy	GGGGG		
+_Y___	brond	_G___	copay	G__YG	crazy	GGGGG		
+_Y___	brond	_G___	copay	___GG	array	GGGGG		
+_Y___	brond	GG___	briar	GGGGG				
+_Y___	brond	__Y__	comma	GG__Y	coach	GGGGG		
+_Y___	brond	__Y__	comma	_YY_Y	axiom	GGGGG		
+_Y___	brond	__Y__	comma	_G_GY	foamy	GGGGG		
+_Y___	brond	__Y__	comma	GG__G	cocoa	GGGGG		
+_Y___	brond	__Y__	comma	YGY_G	mocha	GGGGG		
+_Y___	brond	__Y__	comma	GGGGG				
+_Y___	brond	_YY__	foray	_GYY_	roach	GGGGG		
+_Y___	brond	_YY__	foray	_YYYG	ovary	GGGGG		
+_Y___	brond	_YY__	foray	GGGGG				
+_Y___	brond	YYY__	cobra	_YYYY	abhor	GGGGG		
+_Y___	brond	YYY__	cobra	GGGGG				
+_Y___	brond	GYY__	borax	GGGGG				
+_Y___	brond	_GY__	armor	GG_GY	arrow	GGGGG		
+_Y___	brond	_GY__	armor	GGGGG				
+_Y___	brond	YGY__	arbor	GGGGG				
+_Y___	brond	GGY__	bravo	GGGGG				
+_Y___	brond	_YG__	agora	GGGGG				
+_Y___	brond	_GG__	croak	_GGY_	aroma	GGGGG		
+_Y___	brond	_GG__	croak	GGGGG				
+_Y___	brond	___Y_	again	__G_Y	knack	GGGGG		
+_Y___	brond	___Y_	again	Y__YY	ninja	GGGGG		
+_Y___	brond	___Y_	again	Y___G	human	GGGGG		
+_Y___	brond	___Y_	again	G_YYG	avian	GGGGG		
+_Y___	brond	___Y_	again	__GGG	chain	GGGGG		
+_Y___	brond	___Y_	again	GGGGG				
+_Y___	brond	_Y_Y_	angry	GGGGG				
+_Y___	brond	_G_Y_	prawn	_GG_G	grain	GGGGG		
+_Y___	brond	_G_Y_	prawn	GGGGG				
+_Y___	brond	YG_Y_	urban	GGGGG				
+_Y___	brond	GG_Y_	brawn	GGG_G	brain	GGGGG		
+_Y___	brond	GG_Y_	brawn	GGGGG				
+_Y___	brond	__YY_	annoy	YY_Y_	woman	GGGGG		
+_Y___	brond	__YY_	annoy	GY_G_	axion	GGGGG		
+_Y___	brond	__YY_	annoy	GGGGG				
+_Y___	brond	_YYY_	apron	GGGGG				
+_Y___	brond	_GYY_	organ	GGGGG				
+_Y___	brond	_YGY_	acorn	GGGGG				
+_Y___	brond	_GGY_	groan	GGGGG				
+_Y___	brond	___G_	aging	Y_GG_	china	GGGGG		
+_Y___	brond	___G_	aging	G_GGG	aping	GGGGG		
+_Y___	brond	___G_	aging	GGGGG				
+_Y___	brond	_G_G_	focal	___Y_	prank	GGGGG		
+_Y___	brond	_G_G_	focal	G__Y_	frank	GGGGG		
+_Y___	brond	_G_G_	focal	__YY_	crank	GGGGG		
+_Y___	brond	__YG_	piano	GGGGG				
+_Y___	brond	__GG_	among	G_GGY	agony	GGGGG		
+_Y___	brond	__GG_	among	GGGGG				
+_Y___	brond	_Y__Y	dwarf	G_GG_	diary	GGGGG		
+_Y___	brond	_Y__Y	dwarf	GGGGG				
+_Y___	brond	_G__Y	drama	GGGGG				
+_Y___	brond	__Y_Y	vodka	_YG_Y	audio	GGGGG		
+_Y___	brond	__Y_Y	vodka	_GY_G	dogma	GGGGG		
+_Y___	brond	__Y_Y	vodka	GGGGG				
+_Y___	brond	_GY_Y	ardor	GGGGG				
+_Y___	brond	___YY	admin	GGGGG				
+_Y___	brond	_G_YY	drain	GGG_G	drawn	GGGGG		
+_Y___	brond	_G_YY	drain	GGGGG				
+_Y___	brond	_YGYY	adorn	GGGGG				
+_Y___	brond	_G_GY	drank	GGGGG				
+_Y___	brond	____G	aphid	GGGGG				
+_Y___	brond	_Y__G	acrid	Y_Y_G	guard	GGGGG		
+_Y___	brond	_Y__G	acrid	G_Y_G	award	GGGGG		
+_Y___	brond	_Y__G	acrid	YYY_G	chard	GGGGG		
+_Y___	brond	_Y__G	acrid	GGGGG				
+_Y___	brond	_G__G	fraud	GGGGG				
+_Y___	brond	GG__G	braid	GGGGG				
+_Y___	brond	_YY_G	hoard	GGGGG				
+_Y___	brond	GYY_G	board	GGGGG				
+_Y___	brond	__G_G	avoid	GGGGG				
+_Y___	brond	GGG_G	broad	GGGGG				
+_Y___	brond	__YYG	gonad	_GYGG	nomad	GGGGG		
+_Y___	brond	__YYG	gonad	GGGGG				
+_Y___	brond	_G_GG	grand	GGGGG				
+_Y___	brond	GG_GG	brand	GGGGG				
+YY___	crags	__Y_Y	assay	GGGGG				
+YY___	crags	_GY_Y	arson	GGGGG				
+YY___	crags	__G_Y	quasi	__GG_	awash	GGGGG		
+YY___	crags	__G_Y	quasi	GGGG_	quash	GGGGG		
+YY___	crags	__G_Y	quasi	GGGGG				
+YY___	crags	G_G_Y	chasm	GGGGG				
+YY___	crags	_GG_Y	brash	GGGGG				
+YY___	crags	GGG_Y	crash	GGGGG				
+YY___	crags	__GYY	gnash	GGGGG				
+YY___	crags	_GGYY	grasp	GGGGG				
+YY___	crags	__Y_G	abyss	G__GG	amiss	GGGGG		
+YY___	crags	__Y_G	abyss	GGGGG				
+YY___	crags	__G_G	amass	GGGGG				
+YY___	crags	G_G_G	chaos	GGGGG				
+YY___	crags	_GG_G	brass	GGGGG				
+YY___	crags	GGG_G	crass	GGGGG				
+YY___	crags	_GGYG	grass	GGGGG				
+GY___	cramp	__Y__	squad	GGGGG				
+GY___	cramp	Y_Y__	scuba	GGGGG				
+GY___	cramp	_YY__	sugar	G__GG	sonar	GGGGG		
+GY___	cramp	_YY__	sugar	GGGGG				
+GY___	cramp	__G__	shady	GYG__	swash	GGGGG		
+GY___	cramp	__G__	shady	GGG__	shank	GGGGG		
+GY___	cramp	__G__	shady	G_G_G	snaky	GGGGG		
+GY___	cramp	__G__	shady	GGG_G	shaky	GGGGG		
+GY___	cramp	__G__	shady	GGGGG				
+GY___	cramp	Y_G__	shack	G_GGG	snack	GGGGG		
+GY___	cramp	Y_G__	shack	GGGGG				
+GY___	cramp	_YG__	shard	GGGG_	shark	GGGGG		
+GY___	cramp	_YG__	shard	GGGGG				
+GY___	cramp	YYG__	scarf	GGGG_	scary	GGGGG		
+GY___	cramp	YYG__	scarf	GGGGG				
+GY___	cramp	Y_YY_	sumac	GGGGG				
+GY___	cramp	YYYY_	scram	GGGGG				
+GY___	cramp	__GY_	smash	GGGGG				
+GY___	cramp	Y_GY_	smack	GGGGG				
+GY___	cramp	_YGY_	swarm	GGGGG				
+GY___	cramp	__YG_	sigma	GGGGG				
+GY___	cramp	__GG_	swami	GGGGG				
+GY___	cramp	_YY_Y	spray	GGGGG				
+GY___	cramp	__G_Y	spawn	GYG__	soapy	GGGGG		
+GY___	cramp	__G_Y	spawn	GGG_Y	spank	GGGGG		
+GY___	cramp	__G_Y	spawn	GGGGG				
+GY___	cramp	_YG_Y	spark	GGGGG				
+GY___	cramp	__GYY	spasm	GGGGG				
+GY___	cramp	YYY_G	scrap	GGGGG				
+GY___	cramp	_YG_G	sharp	GGGGG				
+GY___	cramp	__GGG	swamp	GGGGG				
+GY___	cramp	Y_GGG	scamp	GGGGG				
+_G___	corny	_____	gamma	_G___	vapid	GGGGG		
+_G___	corny	_____	gamma	_GYY_	maxim	GGGGG		
+_G___	corny	_____	gamma	_GYYY	madam	GGGGG		
+_G___	corny	_____	gamma	_G__G	kappa	GGGGG		
+_G___	corny	_____	gamma	_GY_G	mafia	GGGGG		
+_G___	corny	_____	gamma	YGYGG	magma	GGGGG		
+_G___	corny	_____	gamma	_GGGG	mamma	GGGGG		
+_G___	corny	_____	gamma	GGGGG				
+_G___	corny	Y____	magic	GG__Y	macaw	GGGGG		
+_G___	corny	Y____	magic	GGGGG				
+_G___	corny	_Y___	mambo	GGGGG				
+_G___	corny	YY___	havoc	YG_YY	macho	GGGGG		
+_G___	corny	YY___	havoc	GGGGG				
+_G___	corny	GY___	cacao	GGGGG				
+_G___	corny	__Y__	rabid	GG___	rajah	GGGGG		
+_G___	corny	__Y__	rabid	GGGY_	rabbi	GGGGG		
+_G___	corny	__Y__	rabid	GG__Y	radar	GGGGG		
+_G___	corny	__Y__	rabid	GG_GY	radii	GGGGG		
+_G___	corny	__Y__	rabid	GG_GG	rapid	GGGGG		
+_G___	corny	__Y__	rabid	GGGGG				
+_G___	corny	_YY__	movie	_Y___	razor	GGGGG		
+_G___	corny	_YY__	movie	GY___	major	GGGGG		
+_G___	corny	_YY__	movie	_YY__	vapor	GGGGG		
+_G___	corny	_YY__	movie	_YG__	favor	GGGGG		
+_G___	corny	_YY__	movie	_Y_G_	radio	GGGGG		
+_G___	corny	YYY__	macro	GGGGG				
+_G___	corny	__G__	karma	YGG_G	parka	GGGGG		
+_G___	corny	__G__	karma	GGGGG				
+_G___	corny	Y_G__	march	GGGGG				
+_G___	corny	GYG__	cargo	GGGGG				
+_G___	corny	___Y_	pagan	_G_YY	mania	GGGGG		
+_G___	corny	___Y_	pagan	_GYYY	manga	GGGGG		
+_G___	corny	___Y_	pagan	GGGGG				
+_G___	corny	Y__Y_	panic	_GGGG	manic	GGGGG		
+_G___	corny	Y__Y_	panic	GGGGG				
+_G___	corny	G__Y_	cabin	GGGGG				
+_G___	corny	_Y_Y_	wagon	_G_YY	banjo	GGGGG		
+_G___	corny	_Y_Y_	wagon	_GYYY	mango	GGGGG		
+_G___	corny	_Y_Y_	wagon	GGGGG				
+_G___	corny	YY_Y_	bacon	GGGGG				
+_G___	corny	GY_Y_	canon	GGGGG				
+_G___	corny	__YY_	nadir	GGGGG				
+_G___	corny	Y_YY_	ranch	GGGGG				
+_G___	corny	G_YY_	cairn	GGGGG				
+_G___	corny	_YYY_	manor	GGGGG				
+_G___	corny	_YGY_	baron	GGGGG				
+_G___	corny	___G_	fauna	GGGGG				
+_G___	corny	____Y	kayak	GGGGG				
+_G___	corny	_Y__Y	bayou	GGGGG				
+_G___	corny	_YY_Y	mayor	GGGGG				
+_G___	corny	_YYYY	rayon	GGGGG				
+_G___	corny	____G	pudgy	____G	mammy	_G__G	jazzy	GGGGG
+_G___	corny	____G	pudgy	____G	mammy	GGGGG		
+_G___	corny	____G	pudgy	Y___G	happy	GGGGG		
+_G___	corny	____G	pudgy	__Y_G	bawdy	GGGGG		
+_G___	corny	____G	pudgy	__G_G	daddy	GGGGG		
+_G___	corny	____G	pudgy	G_G_G	paddy	GGGGG		
+_G___	corny	____G	pudgy	___YG	gawky	GGGGG		
+_G___	corny	____G	pudgy	_YYYG	gaudy	GGGGG		
+_G___	corny	____G	pudgy	___GG	baggy	GGGGG		
+_G___	corny	Y___G	wacky	GGGGG				
+_G___	corny	G___G	caddy	GG__G	cabby	GGGGG		
+_G___	corny	G___G	caddy	GGGGG				
+_G___	corny	__Y_G	dwarf	__YG_	hairy	GGGGG		
+_G___	corny	__Y_G	dwarf	G_YG_	dairy	GGGGG		
+_G___	corny	__Y_G	dwarf	__YGY	fairy	GGGGG		
+_G___	corny	__G_G	depth	_____	marry	GGGGG		
+_G___	corny	__G_G	depth	__Y__	parry	GGGGG		
+_G___	corny	__G_G	depth	____Y	harry	GGGGG		
+_G___	corny	__G_G	depth	Y___Y	hardy	GGGGG		
+_G___	corny	__G_G	depth	__Y_Y	harpy	GGGGG		
+_G___	corny	G_G_G	carry	GGGGG				
+_G___	corny	___YG	dandy	_GG_G	mangy	GGGGG		
+_G___	corny	___YG	dandy	_GGGG	handy	GGGGG		
+_G___	corny	___YG	dandy	GGGGG				
+_G___	corny	Y__YG	fancy	GGGGG				
+_G___	corny	G__YG	candy	GGGGG				
+_G___	corny	__YYG	randy	GGGGG				
+_G___	corny	___GG	fanny	_GGGG	nanny	GGGGG		
+_G___	corny	___GG	fanny	GGGGG				
+_G___	corny	G__GG	canny	GGGGG				
+_G___	corny	__YGG	rainy	GGGGG				
+YG___	crimp	_____	gassy	GGGGG				
+YG___	crimp	_Y___	harsh	GGGGG				
+YG___	crimp	__Y__	basin	GGGG_	basis	GGGGG		
+YG___	crimp	__Y__	basin	GGGGG				
+YG___	crimp	Y_Y__	basic	GGGGG				
+YG___	crimp	__G__	daisy	GGGGG				
+YG___	crimp	___Y_	mason	GGGGG				
+YG___	crimp	_Y_Y_	marsh	GGGGG				
+YG___	crimp	____Y	pansy	GGGGG				
+YG___	crimp	_Y__Y	raspy	GGGGG				
+GG___	copsy	___Y_	sauna	GGGGG				
+GG___	copsy	_Y_Y_	savor	GGGGG				
+GG___	copsy	___YG	savvy	GG__G	sandy	GGGGG		
+GG___	copsy	___YG	savvy	GGGGG				
+GG___	copsy	Y__YG	saucy	GGGGG				
+GG___	copsy	_Y_YG	savoy	GGGGG				
+GG___	copsy	__GYG	sappy	GGGGG				
+GG___	copsy	___GG	sassy	GGGGG				
+__Y__	courd	_____	lying	GG___	lymph	GGGGG		
+__Y__	courd	_____	lying	YYY__	imply	GGGGG		
+__Y__	courd	_____	lying	Y_G__	blimp	GGGGG		
+__Y__	courd	_____	lying	YYYY_	vinyl	GGGGG		
+__Y__	courd	_____	lying	Y_GG_	blink	GGGGG		
+__Y__	courd	_____	lying	YY__Y	glyph	GGGGG		
+__Y__	courd	_____	lying	Y_Y_Y	vigil	GGGGG		
+__Y__	courd	_____	lying	Y_GGG	fling	GGGGG		
+__Y__	courd	_____	lying	GGGGG				
+__Y__	courd	Y____	flick	_YGY_	icily	GGGGG		
+__Y__	courd	Y____	flick	_Y_G_	lynch	GGGGG		
+__Y__	courd	Y____	flick	GGGGG				
+__Y__	courd	G____	knoll	___Y_	cliff	GGG__	climb	GGGGG
+__Y__	courd	G____	knoll	___Y_	cliff	GGGGG		
+__Y__	courd	G____	knoll	Y__Y_	click	GGGGG		
+__Y__	courd	G____	knoll	_Y_Y_	cling	GGGGG		
+__Y__	courd	G____	knoll	YY_Y_	clink	GGGGG		
+__Y__	courd	G____	knoll	___G_	chili	GGGGG		
+__Y__	courd	G____	knoll	____G	civil	GGGGG		
+__Y__	courd	G____	knoll	___GG	chill	GGGGG		
+__Y__	courd	_Y___	blown	YYY__	limbo	GGGGG		
+__Y__	courd	_Y___	blown	_GG__	gloom	GGGGG		
+__Y__	courd	_Y___	blown	GGG__	bloom	GGGGG		
+__Y__	courd	_Y___	blown	_YY_Y	lingo	GGGGG		
+__Y__	courd	_Y___	blown	_YG_Y	knoll	GGGGG		
+__Y__	courd	_Y___	blown	_GGGG	flown	GGGGG		
+__Y__	courd	_Y___	blown	GGGGG				
+__Y__	courd	YY___	flock	_GGGG	block	GGGGG		
+__Y__	courd	YY___	flock	GGGGG				
+__Y__	courd	GY___	clock	GGG__	clown	GGGGG		
+__Y__	courd	GY___	clock	GGGGG				
+__Y__	courd	_G___	wooly	_G_Y_	login	GGGGG		
+__Y__	courd	_G___	wooly	_G_YG	lobby	GGGGG		
+__Y__	courd	_G___	wooly	_GGYG	loopy	GGGGG		
+__Y__	courd	_G___	wooly	_G_GG	nobly	GGGGG		
+__Y__	courd	_G___	wooly	YG_GG	lowly	GGGGG		
+__Y__	courd	_G___	wooly	GGGGG				
+__Y__	courd	YG___	logic	GGGGG				
+__Y__	courd	GG___	coyly	GGGGG				
+__Y__	courd	__Y__	pupil	YG__Y	lumpy	GGGGG		
+__Y__	courd	__Y__	pupil	_G_YG	quill	GGGGG		
+__Y__	courd	__Y__	pupil	GGGGG				
+__Y__	courd	Y_Y__	lunch	GG_Y_	lucky	GGGGG		
+__Y__	courd	Y_Y__	lunch	GGGGG				
+__Y__	courd	_YY__	ghoul	GGGGG				
+__Y__	courd	_GY__	mogul	GGGGG				
+__Y__	courd	__G__	flunk	_GG__	plumb	GGGG_	plump	GGGGG
+__Y__	courd	__G__	flunk	_GG__	plumb	GGGGG		
+__Y__	courd	__G__	flunk	YGG__	bluff	GGGGG		
+__Y__	courd	__G__	flunk	GGG__	fluff	GGGGG		
+__Y__	courd	__G__	flunk	GGGG_	flung	GGGGG		
+__Y__	courd	__G__	flunk	_GGGG	plunk	GGGGG		
+__Y__	courd	__G__	flunk	GGGGG				
+__Y__	courd	Y_G__	pluck	GGGGG				
+__Y__	courd	G_G__	karma	_____	clung	GGGGG		
+__Y__	courd	G_G__	karma	Y____	cluck	GGGGG		
+__Y__	courd	G_G__	karma	___G_	clump	GGGGG		
+__Y__	courd	___Y_	feign	_____	wryly	GGGGG		
+__Y__	courd	___Y_	feign	__G__	krill	GGGGG		
+__Y__	courd	___Y_	feign	G_G__	frill	GGGGG		
+__Y__	courd	___Y_	feign	__YY_	girly	GGGGG		
+__Y__	courd	___Y_	feign	__GY_	grill	GGGGG		
+__Y__	courd	Y__Y_	lyric	GGGGG				
+__Y__	courd	_Y_Y_	growl	_YG_Y	floor	GGGGG		
+__Y__	courd	_Y_Y_	growl	_GG_G	broil	GGGGG		
+__Y__	courd	_Y_Y_	growl	_GGGG	prowl	GGGGG		
+__Y__	courd	_Y_Y_	growl	GGGGG				
+__Y__	courd	__YY_	burly	GGGGG				
+__Y__	courd	Y_YY_	lurch	GGGGG				
+__Y__	courd	G_YY_	curly	GGGGG				
+__Y__	courd	_YYY_	flour	GGGGG				
+__Y__	courd	___G_	whirl	GGGGG				
+__Y__	courd	_Y_G_	glory	GGGGG				
+__Y__	courd	_G_G_	lorry	GGGGG				
+__Y__	courd	__GG_	blurb	GGGGG				
+__Y__	courd	____Y	idyll	YYYG_	dimly	GGGGG		
+__Y__	courd	____Y	idyll	GGGGG				
+__Y__	courd	_Y__Y	oddly	GGGGG				
+__Y__	courd	_G__Y	godly	GGGGG				
+__Y__	courd	___YY	dryly	GG_G_	drill	GGGGG		
+__Y__	courd	___YY	dryly	GGGGG				
+__Y__	courd	_Y_YY	droll	GGG_G	drool	GGGGG		
+__Y__	courd	_Y_YY	droll	GGGGG				
+__Y__	courd	____G	lipid	YY__G	blind	GGGGG		
+__Y__	courd	____G	lipid	GG_GG	livid	GGGGG		
+__Y__	courd	____G	lipid	GGGGG				
+__Y__	courd	G___G	child	GGGGG				
+__Y__	courd	_Y__G	flood	_GG_G	blond	GGGGG		
+__Y__	courd	_Y__G	flood	_GGGG	blood	GGGGG		
+__Y__	courd	_Y__G	flood	GGGGG				
+__Y__	courd	__Y_G	guild	_GGGG	build	GGGGG		
+__Y__	courd	__Y_G	guild	GGGGG				
+__Y__	courd	Y_Y_G	lucid	GGGGG				
+__Y__	courd	GYY_G	cloud	GGGGG				
+__Y__	courd	__G_G	fluid	GGGGG				
+__Y__	courd	_GG_G	would	GGGGG				
+__Y__	courd	GGG_G	could	GGGGG				
+__Y__	courd	_G_YG	world	GGGGG				
+__Y__	courd	__YYG	lurid	GGGGG				
+Y_Y__	boeuf	G____	bliss	GGGGG				
+Y_Y__	boeuf	_Y___	gloss	GGGGG				
+Y_Y__	boeuf	___Y_	plush	GGGGG				
+Y_Y__	boeuf	G__Y_	blush	GGGGG				
+Y_Y__	boeuf	_G_Y_	lousy	GGGGG				
+Y_Y__	boeuf	___G_	lupus	GGGGG				
+Y_Y__	boeuf	_G_G_	locus	GGGGG				
+Y_Y__	boeuf	_Y__Y	floss	GGGGG				
+Y_Y__	boeuf	___YY	flush	GGGGG				
+G_Y__	plink	_Y___	shyly	G__Y_	scowl	GGGGG		
+G_Y__	plink	_Y___	shyly	G__G_	scold	GGGGG		
+G_Y__	plink	_Y___	shyly	G__GG	surly	GGGGG		
+G_Y__	plink	_Y___	shyly	GGGGG				
+G_Y__	plink	YY___	spool	GGGGG				
+G_Y__	plink	_G___	slosh	GG___	slyly	GGGGG		
+G_Y__	plink	_G___	slosh	GG_GG	slush	GGGGG		
+G_Y__	plink	_G___	slosh	GGGGG				
+G_Y__	plink	YG___	slump	GG__G	sloop	GGGGG		
+G_Y__	plink	YG___	slump	GGG_G	slurp	GGGGG		
+G_Y__	plink	YG___	slump	GGGGG				
+G_Y__	plink	YYY__	spoil	GGGGG				
+G_Y__	plink	_YG__	swirl	GGG_G	swill	GGGGG		
+G_Y__	plink	_YG__	swirl	GGGGG				
+G_Y__	plink	YYG__	spill	GGGGG				
+G_Y__	plink	_GG__	slimy	GGGGG				
+G_Y__	plink	_G_G_	slung	GGGGG				
+G_Y__	plink	_GGG_	sling	GGGGG				
+G_Y__	plink	_Y__Y	skull	GGGGG				
+G_Y__	plink	_YG_Y	skill	GGGGG				
+G_Y__	plink	_Y__G	skulk	GGGGG				
+G_Y__	plink	_GG_G	slick	GGGGG				
+G_Y__	plink	_G_GG	slunk	GGGGG				
+G_Y__	plink	_GGGG	slink	GGGGG				
+_YY__	corni	_____	amply	G__Y_	awful	GGGGG		
+_YY__	corni	_____	amply	YY_Y_	llama	GGGGG		
+_YY__	corni	_____	amply	GY_Y_	album	GGGGG		
+_YY__	corni	_____	amply	Y_YY_	plaza	GGGGG		
+_YY__	corni	_____	amply	Y_GY_	pupal	GGGGG		
+_YY__	corni	_____	amply	G_GY_	alpha	GGGGG		
+_YY__	corni	_____	amply	YY_G_	qualm	GGGGG		
+_YY__	corni	_____	amply	Y__YG	flaky	GGGGG		
+_YY__	corni	_____	amply	G_GGG	apply	GGGGG		
+_YY__	corni	_____	amply	GGGGG				
+_YY__	corni	Y____	black	_GGGG	flack	GGGGG		
+_YY__	corni	Y____	black	GGGGG				
+_YY__	corni	G____	chalk	G_GY_	clamp	GGGGG		
+_YY__	corni	G____	chalk	G_GYG	clack	GGGGG		
+_YY__	corni	G____	chalk	GGGGG				
+_YY__	corni	_Y___	offal	Y__YY	aloud	GGGGG		
+_YY__	corni	_Y___	offal	YY_YY	aloof	GGGGG		
+_YY__	corni	_Y___	offal	YG_YG	afoul	GGGGG		
+_YY__	corni	_Y___	offal	GGGGG				
+_YY__	corni	GY___	cloak	GGGGG				
+_YY__	corni	_G___	modal	_G_YY	koala	GGGGG		
+_YY__	corni	_G___	modal	YG_YY	loamy	GGGGG		
+_YY__	corni	_G___	modal	_G_GG	loyal	GGGGG		
+_YY__	corni	_G___	modal	GGGGG				
+_YY__	corni	YG___	favor	_Y_Y_	local	GGGGG		
+_YY__	corni	YG___	favor	GY_Y_	focal	GGGGG		
+_YY__	corni	YG___	favor	_YYY_	vocal	GGGGG		
+_YY__	corni	__Y__	drawl	_YG_Y	alarm	GGGGG		
+_YY__	corni	__Y__	drawl	_GGGG	brawl	GGGGG		
+_YY__	corni	__Y__	drawl	GGGGG				
+_YY__	corni	G_Y__	crawl	GGGGG				
+_YY__	corni	_YY__	flora	GGGGG				
+_YY__	corni	_GY__	royal	GGGGG				
+_YY__	corni	__G__	mural	_GGGG	rural	GGGGG		
+_YY__	corni	__G__	mural	GGGGG				
+_YY__	corni	_GG__	moral	GGGGG				
+_YY__	corni	GGG__	coral	GGGGG				
+_YY__	corni	___Y_	annul	GGGGG				
+_YY__	corni	_G_Y_	zonal	GGGGG				
+_YY__	corni	__YY_	lunar	GGGGG				
+_YY__	corni	___G_	bifid	_____	plank	GGGGG		
+_YY__	corni	___G_	bifid	G____	blank	GGGGG		
+_YY__	corni	___G_	bifid	__Y__	flank	GGGGG		
+_YY__	corni	___G_	bifid	____G	gland	GGGGG		
+_YY__	corni	___G_	bifid	G___G	bland	GGGGG		
+_YY__	corni	G__G_	clank	GGGG_	clang	GGGGG		
+_YY__	corni	G__G_	clank	GGGGG				
+_YY__	corni	_Y_G_	along	GGGGG				
+_YY__	corni	____Y	audit	G__Y_	axial	GGGGG		
+_YY__	corni	____Y	audit	Y__G_	flail	GGGGG		
+_YY__	corni	____Y	audit	G__G_	avail	GGGGG		
+_YY__	corni	____Y	audit	YG_G_	quail	GGGGG		
+_YY__	corni	____Y	audit	Y_YG_	plaid	GGGGG		
+_YY__	corni	Y___Y	iliac	GGGGG				
+_YY__	corni	G___Y	claim	GGGGG				
+_YY__	corni	_Y__Y	viola	GGGGG				
+_YY__	corni	_G__Y	voila	GGGGG				
+_YY__	corni	__Y_Y	flair	_YYYY	rival	GGGGG		
+_YY__	corni	__Y_Y	flair	_YGGY	grail	GGGGG		
+_YY__	corni	__Y_Y	flair	GYGGY	frail	GGGGG		
+_YY__	corni	__Y_Y	flair	GGGGG				
+_YY__	corni	__G_Y	viral	GGGGG				
+_YY__	corni	___YY	align	YYY_Y	final	GGGGG		
+_YY__	corni	___YY	align	GYY_Y	anvil	GGGGG		
+_YY__	corni	___YY	align	YGY_G	plain	GGGGG		
+_YY__	corni	___YY	align	GGGGG				
+_YY__	corni	____G	alibi	GGGGG				
+YYY__	chals	__YYY	usual	GGGGG				
+YYY__	chals	__GYY	flask	GGGGG				
+YYY__	chals	G_GYY	clasp	GGGGG				
+YYY__	chals	_YGYY	flash	GGGGG				
+YYY__	chals	GYGYY	clash	GGGGG				
+YYY__	chals	__GGY	psalm	GGGGG				
+YYY__	chals	__GYG	glass	GGGGG				
+YYY__	chals	G_GYG	class	GGGGG				
+GYY__	chill	___Y_	slang	GGGGG				
+GYY__	chill	Y__Y_	slack	GGGGG				
+GYY__	chill	_Y_Y_	slash	GGGGG				
+GYY__	chill	__YY_	slain	GGGGG				
+GYY__	chill	Y__G_	pride	_____	scaly	GGGGG		
+GYY__	chill	Y__G_	pride	Y____	scalp	GGGGG		
+GYY__	chill	Y__G_	pride	___Y_	scald	GGGGG		
+GYY__	chill	____G	snarl	GGGGG				
+GYY__	chill	_G__G	shawl	GGY_G	shoal	GGGGG		
+GYY__	chill	_G__G	shawl	GGGGG				
+GYY__	chill	__Y_G	snail	GGGGG				
+GYY__	chill	___GG	small	GGGGG				
+GYY__	chill	_G_GG	shall	GGGGG				
+_GY__	bingy	_____	larva	YG___	caulk	GGGGG		
+_GY__	bingy	_____	larva	YGG__	carol	GGGGG		
+_GY__	bingy	_____	larva	YG__Y	papal	GGGGG		
+_GY__	bingy	_____	larva	GGGGG				
+_GY__	bingy	Y____	labor	YGG__	cabal	GGGGG		
+_GY__	bingy	Y____	labor	GGGGG				
+_GY__	bingy	_Y___	cavil	GGGGG				
+_GY__	bingy	__Y__	naval	GGGGG				
+_GY__	bingy	__G__	canal	GGGGG				
+_GY__	bingy	G_G__	banal	GGGGG				
+_GY__	bingy	___G_	laugh	GGGGG				
+_GY__	bingy	____G	madly	GGGGG				
+_GY__	bingy	G___G	badly	GGGGG				
+_GY__	bingy	_Y__G	daily	GGGGG				
+_GY__	bingy	__G_G	lanky	YGG_G	manly	GGGGG		
+_GY__	bingy	__G_G	lanky	GGGGG				
+_GY__	bingy	___YG	gayly	GGGGG				
+_GY__	bingy	_Y_YG	gaily	GGGGG				
+YGY__	basil	_GG_Y	lasso	GGGGG				
+YGY__	basil	_GG_G	nasal	GGGGG				
+YGY__	basil	GGG_G	basal	GGGGG				
+YGY__	basil	GGGGG						
+GGY__	sadly	GGGGG						
+__G__	fugly	___Y_	colon	GGGG_	color	GGGGG		
+__G__	fugly	___Y_	colon	GGGGG				
+__G__	fugly	G__Y_	folio	GGGGG				
+__G__	fugly	_G_Y_	mulch	GGGGG				
+__G__	fugly	__YY_	igloo	GGGGG				
+__G__	fugly	_GYY_	gulch	GGGGG				
+__G__	fugly	___YY	polyp	_YGY_	nylon	GGGGG		
+__G__	fugly	___YY	polyp	GGGGG				
+__G__	fugly	___YG	moldy	G_G_G	milky	GGGGG		
+__G__	fugly	___YG	moldy	GGGGG				
+__G__	fugly	G__YG	filmy	GGGGG				
+__G__	fugly	_G_YG	pulpy	_GG_G	bulky	GGGGG		
+__G__	fugly	_G_YG	pulpy	GGGGG				
+__G__	fugly	___GG	howdy	____G	billy	GGGGG		
+__G__	fugly	___GG	howdy	G___G	hilly	GGGGG		
+__G__	fugly	___GG	howdy	_G__G	jolly	GGGGG		
+__G__	fugly	___GG	howdy	GG__G	holly	GGGGG		
+__G__	fugly	___GG	howdy	__Y_G	willy	GGGGG		
+__G__	fugly	___GG	howdy	___YG	dilly	GGGGG		
+__G__	fugly	___GG	howdy	_G_YG	dolly	GGGGG		
+__G__	fugly	G__GG	folly	G_GGG	filly	GGGGG		
+__G__	fugly	G__GG	folly	GGGGG				
+__G__	fugly	_G_GG	bully	_GGGG	dully	GGGGG		
+__G__	fugly	_G_GG	bully	GGGGG				
+__G__	fugly	GG_GG	fully	GGGGG				
+__G__	fugly	__YGG	golly	GGGGG				
+__G__	fugly	_GYGG	gully	GGGGG				
+G_G__	silky	GYG__	solid	GGGGG				
+G_G__	silky	G_G_G	sully	GGGGG				
+G_G__	silky	GGG_G	silly	GGGGG				
+G_G__	silky	G_GGG	sulky	GGGGG				
+G_G__	silky	GGGGG						
+_YG__	allay	Y_G__	polka	GGGGG				
+_YG__	allay	G_G__	aglow	GGGGG				
+_YG__	allay	YYG__	villa	GGGGG				
+_YG__	allay	GGG__	allow	GGGGG				
+_YG__	allay	__GG_	molar	_GGGG	polar	GGGGG		
+_YG__	allay	__GG_	molar	GGGGG				
+_YG__	allay	_YGG_	lilac	GGGGG				
+_YG__	allay	__GGY	bylaw	GGGGG				
+_YG__	allay	GGG_G	alloy	GGGGG				
+_YG__	allay	__GGG	inlay	GGGGG				
+_YG__	allay	GGGGG						
+GYG__	solar	GGGGG						
+_GG__	rally	_GG__	valid	GGGGG				
+_GG__	rally	YGG__	valor	GGGGG				
+_GG__	rally	GGG__	ralph	GGGGG				
+_GG__	rally	_GG_G	balmy	GGGGG				
+_GG__	rally	_GGGG	dally	GGGGG				
+_GG__	rally	GGGGG						
+YGG__	palsy	GGGGG						
+GGG__	naval	_G__Y	sally	GGGGG				
+GGG__	naval	YG__Y	salon	GGGGG				
+GGG__	naval	_GY_Y	salvo	GGGGG				
+GGG__	naval	_G_YY	salsa	GGGGG				
+GGG__	naval	_G_GY	salad	GGGGG				
+___Y_	drone	____Y	beech	_Y___	equip	GGGGG		
+___Y_	drone	____Y	beech	_GG__	geeky	GGGGG		
+___Y_	drone	____Y	beech	GGG__	beefy	GGGGG		
+___Y_	drone	____Y	beech	__GGY	check	GGGGG		
+___Y_	drone	____Y	beech	_G__G	weigh	GGGGG		
+___Y_	drone	____Y	beech	GGGGG				
+___Y_	drone	Y___Y	edify	YYY__	medic	GGGGG		
+___Y_	drone	Y___Y	edify	YY__G	weedy	GGGGG		
+___Y_	drone	Y___Y	edify	GGGGG				
+___Y_	drone	G___Y	debug	GGGGG				
+___Y_	drone	_Y__Y	furry	GYY__	femur	GGGGG		
+___Y_	drone	_Y__Y	furry	__G__	perch	GGGGG		
+___Y_	drone	_Y__Y	furry	_YYY_	recur	GGGGG		
+___Y_	drone	_Y__Y	furry	__G_G	perky	_GG_G	mercy	GGGGG
+___Y_	drone	_Y__Y	furry	__G_G	perky	_GGGG	jerky	GGGGG
+___Y_	drone	_Y__Y	furry	__G_G	perky	GGGGG		
+___Y_	drone	_Y__Y	furry	___GG	every	GGGGG		
+___Y_	drone	_Y__Y	furry	G__GG	fiery	GGGGG		
+___Y_	drone	_Y__Y	furry	_G_GG	query	GGGGG		
+___Y_	drone	_Y__Y	furry	__GGG	merry	_GGGG	berry	GGGGG
+___Y_	drone	_Y__Y	furry	__GGG	merry	GGGGG		
+___Y_	drone	_Y__Y	furry	G_GGG	ferry	GGGGG		
+___Y_	drone	YY__Y	weird	_G_YY	reedy	GGGGG		
+___Y_	drone	YY__Y	weird	GGGGG				
+___Y_	drone	GY__Y	derby	GGY__	demur	GGGGG		
+___Y_	drone	GY__Y	derby	GGY_G	decry	GGGGG		
+___Y_	drone	GY__Y	derby	GGGGG				
+___Y_	drone	_G__Y	wreck	GGGGG				
+___Y_	drone	__Y_Y	gecko	GGGGG				
+___Y_	drone	G_Y_Y	decoy	GGGGG				
+___Y_	drone	GYY_Y	decor	GGGGG				
+___Y_	drone	_GY_Y	error	GGGGG				
+___Y_	drone	YGY_Y	credo	GGGGG				
+___Y_	drone	__G_Y	epoch	GGG__	epoxy	GGGGG		
+___Y_	drone	__G_Y	epoch	GGGGG				
+___Y_	drone	___YY	begun	_Y__Y	enemy	GGGGG		
+___Y_	drone	___YY	begun	_G__Y	wench	GGGGG		
+___Y_	drone	___YY	begun	GG__Y	bench	GGGGG		
+___Y_	drone	___YY	begun	_GY_Y	neigh	GGGGG		
+___Y_	drone	___YY	begun	_Y_GY	ennui	GGGGG		
+___Y_	drone	___YY	begun	_GY_G	feign	GGGGG		
+___Y_	drone	___YY	begun	GGG_G	begin	GGGGG		
+___Y_	drone	___YY	begun	GGGGG				
+___Y_	drone	Y__YY	needy	GGGGG				
+___Y_	drone	G__YY	denim	GGYY_	deign	GGGGG		
+___Y_	drone	G__YY	denim	GGGGG				
+___Y_	drone	_Y_YY	reign	GG__G	rerun	GGGGG		
+___Y_	drone	_Y_YY	reign	GGGGG				
+___Y_	drone	YY_YY	nerdy	GGGGG				
+___Y_	drone	__YYY	enjoy	YY_G_	venom	GGGGG		
+___Y_	drone	__YYY	enjoy	GG_GG	envoy	GGGGG		
+___Y_	drone	__YYY	enjoy	GGGGG				
+___Y_	drone	Y_YYY	endow	GGGGG				
+___Y_	drone	G_YYY	demon	GGGGG				
+___Y_	drone	_YYYY	heron	GGGGG				
+___Y_	drone	___GY	penny	_Y_G_	eking	GGGGG		
+___Y_	drone	___GY	penny	_G_G_	being	GGGGG		
+___Y_	drone	___GY	penny	_Y_GY	eying	GGGGG		
+___Y_	drone	___GY	penny	GGGGG				
+___Y_	drone	Y__GY	fiend	GGGGG				
+___Y_	drone	__GGY	ebony	GGGGG				
+___Y_	drone	____G	quick	_____	femme	GGGGG		
+___Y_	drone	____G	quick	_G___	fugue	GGGGG		
+___Y_	drone	____G	quick	GG___	queue	GGGGG		
+___Y_	drone	____G	quick	__Y__	pixie	GGGGG		
+___Y_	drone	____G	quick	_YY__	imbue	GGGGG		
+___Y_	drone	____G	quick	YYY__	pique	GGGGG		
+___Y_	drone	____G	quick	__GY_	chime	GGGGG		
+___Y_	drone	____G	quick	__YG_	piece	GGGGG		
+___Y_	drone	____G	quick	_GGG_	juice	GGGGG		
+___Y_	drone	Y___G	whiff	_____	budge	_GGGG	judge	GGGGG
+___Y_	drone	Y___G	whiff	_____	budge	GGGGG		
+___Y_	drone	Y___G	whiff	G____	wedge	GGGGG		
+___Y_	drone	Y___G	whiff	_Y___	hedge	GGGGG		
+___Y_	drone	Y___G	whiff	__Y__	midge	GGGGG		
+___Y_	drone	Y___G	whiff	__G__	guide	GGGGG		
+___Y_	drone	Y___G	whiff	_GG__	chide	GGGGG		
+___Y_	drone	Y___G	whiff	___Y_	fudge	GGGGG		
+___Y_	drone	G___G	deuce	GGGGG				
+___Y_	drone	_Y__G	reive	Y___G	purge	GGGGG		
+___Y_	drone	_Y__G	reive	G___G	rhyme	GGGGG		
+___Y_	drone	_Y__G	reive	YY__G	where	GGGGG		
+___Y_	drone	_Y__G	reive	YG__G	merge	GGGGG		
+___Y_	drone	_Y__G	reive	Y_Y_G	fibre	GGGGG		
+___Y_	drone	_Y__G	reive	YGY_G	eerie	GGGGG		
+___Y_	drone	_Y__G	reive	YG_YG	verge	GGGGG		
+___Y_	drone	_Y__G	reive	GG_YG	revue	GGGGG		
+___Y_	drone	_Y__G	reive	Y__GG	curve	GGGGG		
+___Y_	drone	_Y__G	reive	YG_GG	verve	GGGGG		
+___Y_	drone	YY__G	ridge	GGGGG				
+___Y_	drone	GY__G	dirge	GGGGG				
+___Y_	drone	_G__G	campi	G_Y__	creme	GGGGG		
+___Y_	drone	_G__G	campi	G__G_	crepe	GGGGG		
+___Y_	drone	_G__G	campi	____Y	bribe	GGGGG		
+___Y_	drone	_G__G	campi	__Y_Y	grime	GGGGG		
+___Y_	drone	_G__G	campi	G_Y_Y	crime	GGGGG		
+___Y_	drone	_G__G	campi	___YY	prize	GGGGG		
+___Y_	drone	_G__G	campi	Y__YY	price	GGGGG		
+___Y_	drone	_G__G	campi	__YYY	prime	GGGGG		
+___Y_	drone	_G__G	campi	___GY	gripe	GGGGG		
+___Y_	drone	YG__G	pride	_G_GG	crude	GGGGG		
+___Y_	drone	YG__G	pride	GG_GG	prude	GGGGG		
+___Y_	drone	YG__G	pride	_GGGG	bride	GGGGG		
+___Y_	drone	YG__G	pride	GGGGG				
+___Y_	drone	GG__G	drive	GGGGG				
+___Y_	drone	__Y_G	voice	_G__G	gouge	GGGGG		
+___Y_	drone	__Y_G	voice	GG__G	vogue	GGGGG		
+___Y_	drone	__Y_G	voice	YGY_G	movie	GGGGG		
+___Y_	drone	__Y_G	voice	_G_YG	coupe	GGGGG		
+___Y_	drone	__Y_G	voice	GGGGG				
+___Y_	drone	Y_Y_G	oxide	GGGGG				
+___Y_	drone	G_Y_G	dodge	GGGGG				
+___Y_	drone	_YY_G	forge	_YY_G	ombre	GGGGG		
+___Y_	drone	_YY_G	forge	GGG_G	force	GGGGG		
+___Y_	drone	_YY_G	forge	_GYYG	rogue	GGGGG		
+___Y_	drone	_YY_G	forge	_GYGG	rouge	GGGGG		
+___Y_	drone	_YY_G	forge	_GGGG	gorge	GGGGG		
+___Y_	drone	_YY_G	forge	GGGGG				
+___Y_	drone	YYY_G	horde	GGGGG				
+___Y_	drone	__G_G	flick	_____	booze	GGGGG		
+___Y_	drone	__G_G	flick	__Y__	biome	GGGGG		
+___Y_	drone	__G_G	flick	____Y	evoke	GGGGG		
+___Y_	drone	__G_G	flick	___YY	choke	GGGGG		
+___Y_	drone	G_G_G	diode	GGGGG				
+___Y_	drone	_YG_G	chore	GGGGG				
+___Y_	drone	_GG_G	prove	_GG_G	broke	_GG_G	froze	GGGGG
+___Y_	drone	_GG_G	prove	_GG_G	broke	GGGGG		
+___Y_	drone	_GG_G	prove	YGG_G	grope	GGGGG		
+___Y_	drone	_GG_G	prove	GGG_G	probe	GGGGG		
+___Y_	drone	_GG_G	prove	_GGGG	grove	GGGGG		
+___Y_	drone	_GG_G	prove	GGGGG				
+___Y_	drone	YGG_G	erode	GGGGG				
+___Y_	drone	GGG_G	drove	GGGGG				
+___Y_	drone	___YG	winch	_YY__	knife	GGGGG		
+___Y_	drone	___YG	winch	__G__	venue	GGGGG		
+___Y_	drone	___YG	winch	_YG__	genie	GGGGG		
+___Y_	drone	___YG	winch	_GG__	binge	GGGGG		
+___Y_	drone	___YG	winch	_GYG_	niece	GGGGG		
+___Y_	drone	___YG	winch	__GG_	pence	_GGGG	fence	GGGGG
+___Y_	drone	___YG	winch	__GG_	pence	GGGGG		
+___Y_	drone	___YG	winch	_GGG_	mince	GGGGG		
+___Y_	drone	___YG	winch	GGGG_	wince	GGGGG		
+___Y_	drone	___YG	winch	_GG_Y	hinge	GGGGG		
+___Y_	drone	___YG	winch	_GYYY	niche	GGGGG		
+___Y_	drone	___YG	winch	__GGY	hence	GGGGG		
+___Y_	drone	Y__YG	undue	YYG_G	nudge	GGGGG		
+___Y_	drone	Y__YG	undue	GGGGG				
+___Y_	drone	G__YG	dunce	GGGGG				
+___Y_	drone	_Y_YG	genre	_GYYG	nerve	GGGGG		
+___Y_	drone	_Y_YG	genre	GGGGG				
+___Y_	drone	__YYG	ounce	GGGGG				
+___Y_	drone	__GYG	gnome	GGGGG				
+___Y_	drone	___GG	penne	___GG	whine	GGGGG		
+___Y_	drone	___GG	penne	GGGGG				
+___Y_	drone	_G_GG	brine	_G_GG	prune	GGGGG		
+___Y_	drone	_G_GG	brine	_GGGG	urine	GGGGG		
+___Y_	drone	_G_GG	brine	GGGGG				
+___Y_	drone	__YGG	opine	G_GGG	ovine	GGGGG		
+___Y_	drone	__YGG	opine	GGGGG				
+___Y_	drone	_YYGG	borne	GGGGG				
+___Y_	drone	__GGG	ozone	__GGG	phone	GGGGG		
+___Y_	drone	__GGG	ozone	GGGGG				
+___Y_	drone	_GGGG	prone	_GGGG	crone	GGGGG		
+___Y_	drone	_GGGG	prone	GGGGG				
+___Y_	drone	GGGGG						
+Y__Y_	rhone	____Y	pesky	_YY__	guess	GGGGG		
+Y__Y_	rhone	____Y	pesky	GGGGG				
+Y__Y_	rhone	Y___Y	pride	_G__Y	cress	GGGGG		
+Y__Y_	rhone	Y___Y	pride	GG__Y	press	GGGGG		
+Y__Y_	rhone	Y___Y	pride	_G_YY	dress	GGGGG		
+Y__Y_	rhone	G___Y	rebus	GGGGG				
+Y__Y_	rhone	YY__Y	fresh	GGGGG				
+Y__Y_	rhone	_G__Y	chess	GGGGG				
+Y__Y_	rhone	__Y_Y	poesy	GGGGG				
+Y__Y_	rhone	Y_Y_Y	verso	GGGGG				
+Y__Y_	rhone	G__YY	resin	GGGGG				
+Y__Y_	rhone	____G	issue	_Y__G	geese	GGGGG		
+Y__Y_	rhone	____G	issue	YY_YG	guise	GGGGG		
+Y__Y_	rhone	____G	issue	GGGGG				
+Y__Y_	rhone	Y___G	purse	__GGG	verse	GGGGG		
+Y__Y_	rhone	Y___G	purse	_GGGG	curse	GGGGG		
+Y__Y_	rhone	Y___G	purse	GGGGG				
+Y__Y_	rhone	G___G	reuse	GGGGG				
+Y__Y_	rhone	__Y_G	poise	_Y_GG	obese	GGGGG		
+Y__Y_	rhone	__Y_G	poise	_G_GG	mouse	GGGGG		
+Y__Y_	rhone	__Y_G	poise	YG_GG	copse	GGGGG		
+Y__Y_	rhone	__Y_G	poise	GG_GG	posse	GGGGG		
+Y__Y_	rhone	__Y_G	poise	GGGGG				
+Y__Y_	rhone	Y_Y_G	worse	GGGGG				
+Y__Y_	rhone	G_Y_G	rouse	GGGGG				
+Y__Y_	rhone	_YY_G	house	GGGGG				
+Y__Y_	rhone	YYY_G	horse	GGGGG				
+Y__Y_	rhone	__G_G	goose	_GGGG	moose	GGGGG		
+Y__Y_	rhone	__G_G	goose	GGGGG				
+Y__Y_	rhone	Y_G_G	prose	GGGGG				
+Y__Y_	rhone	_GG_G	chose	_GGGG	whose	GGGGG		
+Y__Y_	rhone	_GG_G	chose	GGGGG				
+Y__Y_	rhone	___YG	ensue	YYY_G	dense	GGGGG		
+Y__Y_	rhone	___YG	ensue	GGGGG				
+Y__Y_	rhone	Y__YG	nurse	GGGGG				
+Y__Y_	rhone	G__YG	rinse	GGGGG				
+Y__Y_	rhone	__YYG	noise	GGGGG				
+Y__Y_	rhone	__GYG	noose	GGGGG				
+G__Y_	prink	_____	seedy	GY___	shove	GGGGG		
+G__Y_	prink	_____	seedy	GGY__	segue	GGGGG		
+G__Y_	prink	_____	seedy	GGGGG				
+G__Y_	prink	Y____	scope	GGGGG				
+G__Y_	prink	_Y___	lurch	__Y__	swore	GGGGG		
+G__Y_	prink	_Y___	lurch	__G__	serve	GGGGG		
+G__Y_	prink	_Y___	lurch	_YG__	serum	GGGGG		
+G__Y_	prink	_Y___	lurch	_GG__	surge	GGGGG		
+G__Y_	prink	_Y___	lurch	__YY_	score	GGGGG		
+G__Y_	prink	_Y___	lurch	__Y_Y	shore	GGGGG		
+G__Y_	prink	YY___	spore	GG_GY	sperm	GGGGG		
+G__Y_	prink	YY___	spore	GGGGG				
+G__Y_	prink	__Y__	siege	GGG_G	sieve	GGGGG		
+G__Y_	prink	__Y__	siege	GGGGG				
+G__Y_	prink	_YY__	serif	GGGGG				
+G__Y_	prink	__G__	seize	GGGGG				
+G__Y_	prink	Y_G__	spice	GGGGG				
+G__Y_	prink	_YG__	shire	GGGGG				
+G__Y_	prink	YYG__	spire	GGGGG				
+G__Y_	prink	___Y_	sense	GGGGG				
+G__Y_	prink	_Y_Y_	snore	GGGGG				
+G__Y_	prink	__YY_	singe	GGG_G	since	GGGGG		
+G__Y_	prink	__YY_	singe	GGGGG				
+G__Y_	prink	__GY_	snide	GGGGG				
+G__Y_	prink	Y_GY_	snipe	GGGGG				
+G__Y_	prink	___G_	scone	GG_GG	scene	GGGGG		
+G__Y_	prink	___G_	scone	G_GGG	shone	GGGGG		
+G__Y_	prink	___G_	scone	GGGGG				
+G__Y_	prink	Y__G_	spend	GGGGG				
+G__Y_	prink	__GG_	swine	G_GGG	shine	GGGGG		
+G__Y_	prink	__GG_	swine	GGGGG				
+G__Y_	prink	Y_GG_	spine	GGGGG				
+G__Y_	prink	____Y	smoke	GGGGG				
+G__Y_	prink	Y___Y	spoke	GGGGG				
+G__Y_	prink	Y_G_Y	spike	GGGGG				
+G__Y_	prink	Y___G	speck	GGGGG				
+G__Y_	prink	__Y_G	sheik	GGGGG				
+_Y_Y_	beard	_YY__	enema	Y___Y	awoke	GGGGG		
+_Y_Y_	beard	_YY__	enema	__G_Y	cheap	GGGGG		
+_Y_Y_	beard	_YY__	enema	_YG_Y	ocean	GGGGG		
+_Y_Y_	beard	_YY__	enema	YG_GY	anime	GGGGG		
+_Y_Y_	beard	_YY__	enema	_YG_G	hyena	GGGGG		
+_Y_Y_	beard	_YY__	enema	__GYG	omega	GGGGG		
+_Y_Y_	beard	_YY__	enema	GGGGG				
+_Y_Y_	beard	YYY__	above	GGGGG				
+_Y_Y_	beard	_GY__	pecan	_GGY_	mecca	GGGGG		
+_Y_Y_	beard	_GY__	pecan	_G_GG	vegan	GGGGG		
+_Y_Y_	beard	_GY__	pecan	GGGGG				
+_Y_Y_	beard	YGY__	kebab	GGGGG				
+_Y_Y_	beard	GGY__	began	GGGGG				
+_Y_Y_	beard	_YG__	aking	Y____	chafe	GGGGG		
+_Y_Y_	beard	_YG__	aking	G____	amaze	GGGGG		
+_Y_Y_	beard	_YG__	aking	YY___	quake	GGGGG		
+_Y_Y_	beard	_YG__	aking	GY___	awake	GGGGG		
+_Y_Y_	beard	_YG__	aking	YY_Y_	knave	GGGGG		
+_Y_Y_	beard	_YG__	aking	Y_YG_	inane	GGGGG		
+_Y_Y_	beard	_YG__	aking	G___Y	agape	GGGGG		
+_Y_Y_	beard	_YG__	aking	Y_Y_Y	image	GGGGG		
+_Y_Y_	beard	_GG__	weave	_GG__	peach	GGGGG		
+_Y_Y_	beard	_GG__	weave	_GGG_	heavy	GGGGG		
+_Y_Y_	beard	_GG__	weave	_GG_G	peace	GGGGG		
+_Y_Y_	beard	_GG__	weave	_GGGG	heave	GGGGG		
+_Y_Y_	beard	_GG__	weave	GGGGG				
+_Y_Y_	beard	GGG__	beach	GGGGG				
+_Y_Y_	beard	_YYY_	macaw	_Y___	argue	GGGGG		
+_Y_Y_	beard	_YYY_	macaw	_Y_Y_	arena	GGGGG		
+_Y_Y_	beard	_YYY_	macaw	___G_	freak	GGGGG		
+_Y_Y_	beard	_YYY_	macaw	__YG_	creak	GGGGG		
+_Y_Y_	beard	_YYY_	macaw	Y_YG_	cream	GGGGG		
+_Y_Y_	beard	_YYY_	macaw	___GY	wreak	GGGGG		
+_Y_Y_	beard	GYYY_	break	GGGGG				
+_Y_Y_	beard	_GYY_	repay	GGYG_	recap	GGGGG		
+_Y_Y_	beard	_GYY_	repay	GGGGG				
+_Y_Y_	beard	YGYY_	rebar	GGYG_	rehab	GGGGG		
+_Y_Y_	beard	YGYY_	rebar	GGGGG				
+_Y_Y_	beard	_YGY_	cezve	____G	frame	_GG_G	grape	GGGGG
+_Y_Y_	beard	_YGY_	cezve	____G	frame	GGGGG		
+_Y_Y_	beard	_YGY_	cezve	Y___G	grace	GGGGG		
+_Y_Y_	beard	_YGY_	cezve	G___G	crane	GGGGG		
+_Y_Y_	beard	_YGY_	cezve	__Y_G	graze	GGGGG		
+_Y_Y_	beard	_YGY_	cezve	G_Y_G	craze	GGGGG		
+_Y_Y_	beard	_YGY_	cezve	___GG	grave	GGGGG		
+_Y_Y_	beard	_YGY_	cezve	G__GG	crave	GGGGG		
+_Y_Y_	beard	GYGY_	croak	_G_Y_	brave	GGGGG		
+_Y_Y_	beard	GYGY_	croak	YG_Y_	brace	GGGGG		
+_Y_Y_	beard	GYGY_	croak	_G_YY	brake	GGGGG		
+_Y_Y_	beard	_GGY_	reach	GGGGG				
+_Y_Y_	beard	_YYG_	azure	Y__GY	opera	GGGGG		
+_Y_Y_	beard	_YYG_	azure	G__GG	afire	GGGGG		
+_Y_Y_	beard	_YYG_	azure	GGGGG				
+_Y_Y_	beard	YGYG_	zebra	GGGGG				
+_Y_Y_	beard	_YGG_	aware	GGGGG				
+_Y_Y_	beard	_GGG_	yearn	_GGG_	rearm	GGGGG		
+_Y_Y_	beard	_GGG_	yearn	YGGG_	weary	GGGGG		
+_Y_Y_	beard	_GGG_	yearn	GGGGG				
+_Y_Y_	beard	_YY_Y	anode	GGGGG				
+_Y_Y_	beard	YYY_Y	adobe	GY_YG	abide	GGGGG		
+_Y_Y_	beard	YYY_Y	adobe	GYGYG	abode	GGGGG		
+_Y_Y_	beard	YYY_Y	adobe	GGGGG				
+_Y_Y_	beard	_GY_Y	decay	YG_Y_	media	GGGGG		
+_Y_Y_	beard	_GY_Y	decay	GGGGG				
+_Y_Y_	beard	_YG_Y	evade	__GYG	adage	GGGGG		
+_Y_Y_	beard	_YG_Y	evade	GGGGG				
+_Y_Y_	beard	_GG_Y	heady	GGGGG				
+_Y_Y_	beard	GGG_Y	beady	GGGGG				
+_Y_Y_	beard	_YYYY	dream	GGGGG				
+_Y_Y_	beard	_GYYY	cedar	GGGGG				
+_Y_Y_	beard	YGYYY	debar	GGGGG				
+_Y_Y_	beard	_YGYY	drake	YGG_G	grade	GGGGG		
+_Y_Y_	beard	_YGYY	drake	GGG_G	drape	GGGGG		
+_Y_Y_	beard	_YGYY	drake	GGGGG				
+_Y_Y_	beard	_GGYY	ready	GGGGG				
+_Y_Y_	beard	_YYGY	adore	GGGGG				
+_Y_Y_	beard	_YY_G	ahead	G_G_G	amend	GGGGG		
+_Y_Y_	beard	_YY_G	ahead	__GGG	knead	GGGGG		
+_Y_Y_	beard	_YY_G	ahead	GGGGG				
+_Y_Y_	beard	_YYYG	dread	GGGGG				
+_Y_Y_	beard	GYYYG	bread	GGGGG				
+_Y_Y_	beard	_GGGG	heard	GGGGG				
+_Y_Y_	beard	GGGGG						
+YY_Y_	brass	__YY_	aside	GGGGG				
+YY_Y_	brass	__GY_	usage	GGGGG				
+YY_Y_	brass	__YG_	amuse	GGGGG				
+YY_Y_	brass	Y_YG_	abuse	GGGGG				
+YY_Y_	brass	_GYG_	arise	GG_GG	arose	GGGGG		
+YY_Y_	brass	_GYG_	arise	GGGGG				
+YY_Y_	brass	__GG_	phase	__GGG	cease	GGGGG		
+YY_Y_	brass	__GG_	phase	_GGGG	chase	GGGGG		
+YY_Y_	brass	__GG_	phase	GGGGG				
+YY_Y_	brass	Y_GG_	abase	GGGGG				
+YY_Y_	brass	_GGG_	erase	GGGGG				
+YY_Y_	brass	__YYY	essay	GGGGG				
+GY_Y_	hepar	_Y_Y_	suave	G_G_G	snake	GGGGG		
+GY_Y_	hepar	_Y_Y_	suave	GGGGG				
+GY_Y_	hepar	YY_Y_	vodka	____Y	shame	GGGGG		
+GY_Y_	hepar	YY_Y_	vodka	Y___Y	shave	GGGGG		
+GY_Y_	hepar	YY_Y_	vodka	__Y_Y	shade	GGGGG		
+GY_Y_	hepar	YY_Y_	vodka	___GY	shake	GGGGG		
+GY_Y_	hepar	_YYY_	spade	GGG_G	space	GGGGG		
+GY_Y_	hepar	_YYY_	spade	GGGGG				
+GY_Y_	hepar	YYYY_	shape	GGGGG				
+GY_Y_	hepar	_GGY_	sepia	GGGGG				
+GY_Y_	hepar	_Y_G_	sneak	GGGGG				
+GY_Y_	hepar	_G_G_	sedan	GGGGG				
+GY_Y_	hepar	_YYG_	speak	GGGGG				
+GY_Y_	hepar	_Y_YY	scare	G_GGG	snare	GGGGG		
+GY_Y_	hepar	_Y_YY	scare	GGGGG				
+GY_Y_	hepar	YY_YY	share	GGGGG				
+GY_Y_	hepar	_YYYY	spare	GGGGG				
+GY_Y_	hepar	_Y_GG	smear	G_GGG	swear	GGGGG		
+GY_Y_	hepar	_Y_GG	smear	GGGGG				
+GY_Y_	hepar	YY_GG	shear	GGGGG				
+GY_Y_	hepar	_YYGG	spear	GGGGG				
+_G_Y_	cumin	_____	badge	_G_YG	gaffe	GGGGG		
+_G_Y_	cumin	_____	badge	GG_GG	barge	GGGGG		
+_G_Y_	cumin	_____	badge	GGGGG				
+_G_Y_	cumin	Y____	farce	GGGGG				
+_G_Y_	cumin	G____	carve	GG__G	cache	GGGGG		
+_G_Y_	cumin	G____	carve	GGGGG				
+_G_Y_	cumin	_Y___	gauze	YGY_G	vague	GGGGG		
+_G_Y_	cumin	_Y___	gauze	GGG_G	gauge	GGGGG		
+_G_Y_	cumin	_Y___	gauze	GGGGG				
+_G_Y_	cumin	__Y__	maybe	GGGGG				
+_G_Y_	cumin	_YY__	mauve	GGGGG				
+_G_Y_	cumin	___Y_	waive	GGGGG				
+_G_Y_	cumin	__YY_	maize	GGGGG				
+_G_Y_	cumin	____Y	range	GGGGG				
+_G_Y_	cumin	Y___Y	dance	GGGGG				
+_G_Y_	cumin	G___Y	canoe	GGGGG				
+_G_Y_	cumin	__Y_Y	mange	GGGGG				
+_G_Y_	cumin	___YY	naive	GGGGG				
+YG_Y_	humph	_____	raise	GGGGG				
+YG_Y_	humph	_Y___	cause	GGGGG				
+YG_Y_	humph	__Y__	masse	GGGGG				
+YG_Y_	humph	___Y_	parse	GGGGG				
+YG_Y_	humph	_Y_Y_	pause	GGGGG				
+GG_Y_	sauce	GGGGG						
+__YY_	doing	_____	clump	_Y___	leery	GGGGG		
+__YY_	doing	_____	clump	YY___	leech	GGGGG		
+__YY_	doing	_____	clump	GY___	cycle	GGGGG		
+__YY_	doing	_____	clump	YG___	fleck	GGGGG		
+__YY_	doing	_____	clump	GG___	clerk	GGGGG		
+__YY_	doing	_____	clump	_YY__	quell	GGGGG		
+__YY_	doing	_____	clump	_GG__	fluke	GGGGG		
+__YY_	doing	_____	clump	_YYY_	lemur	GGGGG		
+__YY_	doing	_____	clump	_GGG_	flume	GGGGG		
+__YY_	doing	_____	clump	_Y__Y	reply	GGGGG		
+__YY_	doing	_____	clump	_GGGY	plume	GGGGG		
+__YY_	doing	_____	clump	_Y__G	whelp	GGGGG		
+__YY_	doing	Y____	elude	GGGGG				
+__YY_	doing	G____	dwell	GGGGG				
+__YY_	doing	_Y___	elbow	YG_Y_	clove	GGGGG		
+__YY_	doing	_Y___	elbow	GG_Y_	elope	GGGGG		
+__YY_	doing	_Y___	elbow	YGYY_	bloke	GGGGG		
+__YY_	doing	_Y___	elbow	YY_YY	whole	GGGGG		
+__YY_	doing	_Y___	elbow	GGGGG				
+__YY_	doing	_G___	boule	GGGGG				
+__YY_	doing	__Y__	rifle	YY_YY	peril	GGGGG		
+__YY_	doing	__Y__	rifle	_G_GG	bible	GGGGG		
+__YY_	doing	__Y__	rifle	GGGGG				
+__YY_	doing	Y_Y__	dwarf	Y____	yield	GGGGG		
+__YY_	doing	Y_Y__	dwarf	YY___	wield	GGGGG		
+__YY_	doing	Y_Y__	dwarf	Y___Y	field	GGGGG		
+__YY_	doing	G_Y__	devil	GGGGG				
+__YY_	doing	__G__	exile	__GGG	while	GGGGG		
+__YY_	doing	__G__	exile	GGGGG				
+__YY_	doing	Y_G__	elide	GGGGG				
+__YY_	doing	_YG__	olive	GGGGG				
+__YY_	doing	___Y_	uncle	_Y_GY	newly	GGGGG		
+__YY_	doing	___Y_	uncle	GGGGG				
+__YY_	doing	_Y_Y_	lemon	GGGGG				
+__YY_	doing	_G_Y_	noble	GGGGG				
+__YY_	doing	__YY_	elfin	GGGGG				
+__YY_	doing	Y__G_	blend	GGGGG				
+__YY_	doing	_Y_G_	clone	GGGGG				
+__YY_	doing	____Y	bugle	__YYY	elegy	GGGGG		
+__YY_	doing	____Y	bugle	__GYY	leggy	GGGGG		
+__YY_	doing	____Y	bugle	GGGGG				
+__YY_	doing	Y___Y	ledge	GGGGG				
+__YY_	doing	_Y__Y	glove	GGG_G	globe	GGGGG		
+__YY_	doing	_Y__Y	glove	GGGGG				
+__YY_	doing	YG__Y	lodge	GGGGG				
+__YY_	doing	__Y_Y	liege	GGGGG				
+__YY_	doing	__G_Y	guile	GGGGG				
+__YY_	doing	Y_G_Y	glide	GGGGG				
+__YY_	doing	___YY	lunge	GGGGG				
+Y_YY_	blush	_Y_G_	loose	GGGGG				
+Y_YY_	blush	_G_G_	close	GGGGG				
+Y_YY_	blush	GG_G_	bless	GGGGG				
+Y_YY_	blush	_YGG_	louse	GGGGG				
+Y_YY_	blush	_G_GG	flesh	GGGGG				
+G_YY_	chime	____Y	spell	G_GGG	swell	GGGGG		
+G_YY_	chime	____Y	spell	GGGGG				
+G_YY_	chime	_G__Y	shell	GGGG_	shelf	GGGGG		
+G_YY_	chime	_G__Y	shell	GGGGG				
+G_YY_	chime	___YY	smell	GGGGG				
+G_YY_	chime	____G	slope	GGGGG				
+G_YY_	chime	__G_G	slide	GGGGG				
+G_YY_	chime	Y_G_G	slice	GGGGG				
+G_YY_	chime	__GYG	smile	GGGGG				
+G_YY_	chime	__GGG	slime	GGGGG				
+_YYY_	gnarl	__Y_Y	spike	_Y__Y	plead	GGGGG		
+_YYY_	gnarl	__Y_Y	spike	___YY	bleak	GGGGG		
+_YYY_	gnarl	__Y_Y	spike	____G	amble	GGGGG		
+_YYY_	gnarl	__Y_Y	spike	_Y__G	ample	GGGGG		
+_YYY_	gnarl	__Y_Y	spike	_G__G	apple	GGGGG		
+_YYY_	gnarl	__Y_Y	spike	__G_G	alive	GGGGG		
+_YYY_	gnarl	__Y_Y	spike	__GGG	alike	GGGGG		
+_YYY_	gnarl	Y_Y_Y	algae	GYY_G	agile	GGGGG		
+_YYY_	gnarl	Y_Y_Y	algae	GGGGG				
+_YYY_	gnarl	G_Y_Y	gleam	GGGGG				
+_YYY_	gnarl	_YY_Y	alone	YG_YY	clean	GGGGG		
+_YYY_	gnarl	_YY_Y	alone	GGGGG				
+_YYY_	gnarl	GYY_Y	glean	GGGGG				
+_YYY_	gnarl	_GY_Y	ankle	GGGGG				
+_YYY_	gnarl	YGY_Y	angle	GGGGG				
+_YYY_	gnarl	__G_Y	fehme	_G___	leaky	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	YG___	leafy	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	_GY__	leach	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	_G_Y_	mealy	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	____G	blaze	_GG_G	place	GGGGG
+_YYY_	gnarl	__G_Y	fehme	____G	blaze	GGG_G	blade	GGGGG
+_YYY_	gnarl	__G_Y	fehme	____G	blaze	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	G___G	flake	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	_G__G	leave	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	__Y_G	whale	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	___GG	blame	GGGGG		
+_YYY_	gnarl	__G_Y	fehme	G__GG	flame	GGGGG		
+_YYY_	gnarl	G_G_Y	glade	GGG_G	glaze	GGGGG		
+_YYY_	gnarl	G_G_Y	glade	GGGGG				
+_YYY_	gnarl	_YG_Y	plane	GGGGG				
+_YYY_	gnarl	__YYY	clear	GGGGG				
+_YYY_	gnarl	__GYY	realm	GGGGG				
+_YYY_	gnarl	__GGY	blare	_GGGG	flare	GGGGG		
+_YYY_	gnarl	__GGY	blare	GGGGG				
+_YYY_	gnarl	G_GGY	glare	GGGGG				
+_YYY_	gnarl	_YGGY	learn	GGGGG				
+_YYY_	gnarl	__Y_G	medal	_Y_GG	equal	GGGGG		
+_YYY_	gnarl	__Y_G	medal	_G_GG	fecal	GGGGG		
+_YYY_	gnarl	__Y_G	medal	_YYGG	ideal	GGGGG		
+_YYY_	gnarl	__Y_G	medal	_GYGG	decal	GGGGG		
+_YYY_	gnarl	__Y_G	medal	_GGGG	pedal	GGGGG		
+_YYY_	gnarl	__Y_G	medal	GGGGG				
+_YYY_	gnarl	Y_Y_G	legal	GGGGG				
+_YYY_	gnarl	_YY_G	penal	GGGGG				
+_YYY_	gnarl	__G_G	email	GGGGG				
+_YYY_	gnarl	__YYG	feral	GGGGG				
+_YYY_	gnarl	Y_YYG	regal	GGGGG				
+_YYY_	gnarl	_YYYG	renal	GGGGG				
+_YYY_	gnarl	__GGG	pearl	GGGGG				
+YYYY_	leash	YYYY_	aisle	GGGGG				
+YYYY_	leash	GGGG_	lease	GGGGG				
+YYYY_	leash	GGGGG						
+GYYY_	shale	G_GYG	slave	GGGGG				
+GYYY_	shale	G_GGG	scale	GGGGG				
+GYYY_	shale	GGGGG						
+_GYY_	creme	_YY__	early	GGGGG				
+_GYY_	creme	____G	fable	_G_GG	ladle	GGGGG		
+_GYY_	creme	____G	fable	GGGGG				
+_GYY_	creme	Y___G	lance	GGGGG				
+_GYY_	creme	G___G	cable	GGGGG				
+_GYY_	creme	_Y__G	large	GGGGG				
+_GYY_	creme	__Y_G	eagle	GGGGG				
+_GYY_	creme	___YG	maple	GGGGG				
+YGYY_	lapse	GGGGG						
+__GY_	himbo	_____	delve	_GG__	jelly	GGGGG		
+__GY_	himbo	_____	delve	GGGGG				
+__GY_	himbo	Y____	welch	GGGGG				
+__GY_	himbo	_Y___	relic	GGGGG				
+__GY_	himbo	GY___	helix	GGGGG				
+__GY_	himbo	___Y_	belly	GYG__	bulge	GGGGG		
+__GY_	himbo	___Y_	belly	GGGG_	belle	GGGGG		
+__GY_	himbo	___Y_	belly	GGGGG				
+__GY_	himbo	Y__Y_	belch	GGGGG				
+__GY_	himbo	_Y_Y_	belie	GGGGG				
+__GY_	himbo	_G_Y_	bilge	GGGGG				
+__GY_	himbo	____Y	felon	GGGGG				
+__GY_	himbo	__Y_Y	melon	GGGGG				
+__GY_	himbo	___YY	below	GGGGG				
+__GY_	himbo	____G	cello	GGGGG				
+__GY_	himbo	G___G	hello	GGGGG				
+Y_GY_	welsh	_YGG_	pulse	GGGGG				
+Y_GY_	welsh	GGGGG						
+G_GY_	solve	GGGGG						
+_YGY_	relax	_GGY_	fella	GGGGG				
+_YGY_	relax	_GGG_	delay	GGGGG				
+_YGY_	relax	GGGG_	relay	GGGGG				
+_YGY_	relax	GGGGG						
+_GGY_	valve	GGG_G	value	GGGGG				
+_GGY_	valve	_GGGG	halve	GGGGG				
+_GGY_	valve	GGGGG						
+YGGY_	FALSE	GGGGG						
+GGGY_	salve	GGGGG						
+___G_	rownd	_____	cheek	Y__G_	bicep	GGGGG		
+___G_	rownd	_____	cheek	GG_G_	chief	GGGGG		
+___G_	rownd	_____	cheek	Y_YG_	emcee	GGGGG		
+___G_	rownd	_____	cheek	GGGGG				
+___G_	rownd	Y____	pubic	_____	freer	G_YGG	fever	GGGGG
+___G_	rownd	Y____	pubic	_____	freer	GGGGG		
+___G_	rownd	Y____	pubic	Y____	hyper	GGGGG		
+___G_	rownd	Y____	pubic	YY___	upper	GGGGG		
+___G_	rownd	Y____	pubic	_G___	queer	GGGGG		
+___G_	rownd	Y____	pubic	GG___	puree	GGGG_	purer	GGGGG
+___G_	rownd	Y____	pubic	GG___	puree	GGGGG		
+___G_	rownd	Y____	pubic	_GY__	buyer	GGGGG		
+___G_	rownd	Y____	pubic	__G__	ember	GGGGG		
+___G_	rownd	Y____	pubic	___Y_	fixer	YY_GY	grief	GGGGG
+___G_	rownd	Y____	pubic	___Y_	fixer	_G_GG	giver	GGGGG
+___G_	rownd	Y____	pubic	___Y_	fixer	GGGGG		
+___G_	rownd	Y____	pubic	Y__Y_	viper	GGGGG		
+___G_	rownd	Y____	pubic	G__Y_	piper	GGGGG		
+___G_	rownd	Y____	pubic	__YY_	brief	GGGGG		
+___G_	rownd	Y____	pubic	__GY_	fiber	GGGGG		
+___G_	rownd	Y____	pubic	____Y	creek	GYGG_	cheer	GGGGG
+___G_	rownd	Y____	pubic	____Y	creek	GGGGG		
+___G_	rownd	Y____	pubic	Y___Y	creep	GGGGG		
+___G_	rownd	Y____	pubic	__G_Y	cyber	GGGGG		
+___G_	rownd	Y____	pubic	___YY	crier	GGGGG		
+___G_	rownd	G____	rupee	G__G_	river	GGGGG		
+___G_	rownd	G____	rupee	G_GG_	riper	GGGGG		
+___G_	rownd	G____	rupee	G__GY	refer	GGGGG		
+___G_	rownd	G____	rupee	GGGGG				
+___G_	rownd	YY___	offer	GGGGG				
+___G_	rownd	_G___	covey	_G_GG	gooey	GGGGG		
+___G_	rownd	_G___	covey	GGGGG				
+___G_	rownd	YG___	chevy	__Y__	poker	_G_GG	boxer	GGGGG
+___G_	rownd	YG___	chevy	__Y__	poker	_GGGG	joker	GGGGG
+___G_	rownd	YG___	chevy	__Y__	poker	GGGGG		
+___G_	rownd	YG___	chevy	G_Y__	corer	GGGGG		
+___G_	rownd	YG___	chevy	_YY__	homer	GGGGG		
+___G_	rownd	YG___	chevy	__YY_	mover	GGGGG		
+___G_	rownd	YG___	chevy	G_YY_	cover	GGGGG		
+___G_	rownd	YG___	chevy	_YYY_	hover	GGGGG		
+___G_	rownd	YG___	chevy	__Y_Y	foyer	GGGGG		
+___G_	rownd	GG___	rover	GG_GG	roger	GGGGG		
+___G_	rownd	GG___	rover	GGGGG				
+___G_	rownd	YGY__	wooer	GGGGG				
+___G_	rownd	Y_G__	fewer	GGGGG				
+___G_	rownd	YGG__	humph	_____	cower	GGGGG		
+___G_	rownd	YGG__	humph	__Y__	mower	GGGGG		
+___G_	rownd	YGG__	humph	___Y_	power	GGGGG		
+___G_	rownd	GGG__	rower	GGGGG				
+___G_	rownd	___Y_	lying	___Y_	queen	GGGGG		
+___G_	rownd	___Y_	lying	_G_Y_	hymen	GGGGG		
+___G_	rownd	___Y_	lying	__YY_	vixen	GGGGG		
+___G_	rownd	___Y_	lying	_YYY_	piney	GGGGG		
+___G_	rownd	___Y_	lying	__YYY	given	GGGGG		
+___G_	rownd	Y__Y_	finer	__YGY	preen	_GGGG	green	GGGGG
+___G_	rownd	Y__Y_	finer	__YGY	preen	GGGGG		
+___G_	rownd	Y__Y_	finer	__YGG	never	GGGGG		
+___G_	rownd	Y__Y_	finer	YYYGG	infer	GGGGG		
+___G_	rownd	Y__Y_	finer	_GYGG	nicer	GGGGG		
+___G_	rownd	Y__Y_	finer	_YGGG	inner	GGGGG		
+___G_	rownd	Y__Y_	finer	_GGGG	miner	GGGGG		
+___G_	rownd	Y__Y_	finer	GGGGG				
+___G_	rownd	G__Y_	ripen	GGGGG				
+___G_	rownd	_G_Y_	bench	_YG__	money	GGGGG		
+___G_	rownd	_G_Y_	bench	GYG__	boney	GGGGG		
+___G_	rownd	_G_Y_	bench	_YYY_	coven	GGGGG		
+___G_	rownd	_G_Y_	bench	_YG_Y	honey	GGGGG		
+___G_	rownd	YG_Y_	goner	GGGGG				
+___G_	rownd	G_YY_	renew	GGGGG				
+___G_	rownd	YYYY_	owner	GGGGG				
+___G_	rownd	_GYY_	karma	_____	woven	GGGGG		
+___G_	rownd	_GYY_	karma	Y____	woken	GGGGG		
+___G_	rownd	_GYY_	karma	___Y_	women	GGGGG		
+___G_	rownd	Y_GY_	newer	GGGGG				
+___G_	rownd	____Y	dicey	GGGGG				
+___G_	rownd	Y___Y	drier	Y__GG	udder	GGGGG		
+___G_	rownd	Y___Y	drier	G__GG	defer	GGGGG		
+___G_	rownd	Y___Y	drier	GG_GG	dryer	GGGGG		
+___G_	rownd	Y___Y	drier	Y_YGG	cider	GGGGG		
+___G_	rownd	Y___Y	drier	G_YGG	diver	GGGGG		
+___G_	rownd	Y___Y	drier	GGGGG				
+___G_	rownd	G___Y	ruder	G_GGG	rider	GGGGG		
+___G_	rownd	G___Y	ruder	GGGGG				
+___G_	rownd	_Y__Y	video	GGGGG				
+___G_	rownd	YY__Y	order	G_GGG	odder	GGGGG		
+___G_	rownd	YY__Y	order	GGGGG				
+___G_	rownd	_G__Y	modem	_GYG_	dopey	GGGGG		
+___G_	rownd	_G__Y	modem	GGGGG				
+___G_	rownd	GG__Y	rodeo	GGGGG				
+___G_	rownd	Y_Y_Y	wider	GGGGG				
+___G_	rownd	___YY	index	GGGGG				
+___G_	rownd	Y__YY	diner	Y_YGG	under	GGGGG		
+___G_	rownd	Y__YY	diner	GGGGG				
+___G_	rownd	_G_YY	dozen	GGGGG				
+___G_	rownd	__YYY	widen	GGGGG				
+___G_	rownd	____G	embed	GGGGG				
+___G_	rownd	Y___G	flick	_____	breed	_GGGG	greed	GGGGG
+___G_	rownd	Y___G	flick	_____	breed	GGGGG		
+___G_	rownd	Y___G	flick	G____	freed	GGGGG		
+___G_	rownd	Y___G	flick	__G__	pried	_GGGG	dried	GGGGG
+___G_	rownd	Y___G	flick	__G__	pried	GGGGG		
+___G_	rownd	Y___G	flick	G_G__	fried	GGGGG		
+___G_	rownd	Y___G	flick	___Y_	creed	GGGGG		
+___G_	rownd	Y___G	flick	__GY_	cried	GGGGG		
+___G_	rownd	___YG	unfed	_G_GG	kneed	GGGGG		
+___G_	rownd	___YG	unfed	GGGGG				
+___G_	rownd	__GYG	unwed	GGGGG				
+Y__G_	rumor	G____	risen	GGGGG				
+Y__G_	rumor	_G___	bused	GGGGG				
+Y__G_	rumor	___Y_	nosey	GGGGG				
+Y__G_	rumor	____G	wiser	GGGGG				
+Y__G_	rumor	G___G	riser	GGGGG				
+Y__G_	rumor	_Y__G	usher	GGGGG				
+Y__G_	rumor	__Y_G	miser	GGGGG				
+Y__G_	rumor	___YG	poser	GGGGG				
+G__G_	hewer	___G_	spied	GGGGG				
+G__G_	hewer	Y__G_	shied	GGGGG				
+G__G_	hewer	_Y_G_	speed	GGGGG				
+G__G_	hewer	YY_G_	sheen	GGGG_	sheep	GGGGG		
+G__G_	hewer	YY_G_	sheen	GGGGG				
+G__G_	hewer	_G_G_	seven	GG_GG	semen	GGGGG		
+G__G_	hewer	_G_G_	seven	GGGGG				
+G__G_	hewer	__YG_	sinew	GGGGG				
+G__G_	hewer	_YYG_	sweep	GGGGG				
+G__G_	hewer	___GY	siren	GGGGG				
+G__G_	hewer	_Y_GY	spree	G_GGG	scree	GGGGG		
+G__G_	hewer	_Y_GY	spree	GGGGG				
+G__G_	hewer	__YGY	screw	GGGGG				
+G__G_	hewer	Y_YGY	shrew	GGGGG				
+G__G_	hewer	___GG	pound	_____	skier	GGGGG		
+G__G_	hewer	___GG	pound	_G___	sober	GGGGG		
+G__G_	hewer	___GG	pound	__Y__	surer	GGGGG		
+G__G_	hewer	___GG	pound	Y_Y__	super	GGGGG		
+G__G_	hewer	_Y_GG	sneer	GGGGG				
+G__G_	hewer	YY_GG	sheer	GGGGG				
+G__G_	hewer	_G_GG	sever	GGGGG				
+G__G_	hewer	__GGG	sower	GGGGG				
+G__G_	hewer	_GGGG	sewer	GGGGG				
+_Y_G_	inter	___G_	abbey	GGGGG				
+_Y_G_	inter	_Y_G_	apnea	GGGGG				
+_Y_G_	inter	_G_G_	annex	GGGGG				
+_Y_G_	inter	___GY	agree	GGGGG				
+_Y_G_	inter	___GG	amber	GGGGG				
+_Y_G_	inter	Y__GG	aider	GGGGG				
+_Y_G_	inter	_G_GG	anger	GGGGG				
+YY_G_	askew	GG_G_	ashen	GGGGG				
+YY_G_	askew	GGGGG						
+_G_G_	gormy	_____	haven	_G_GG	waxen	GGGGG		
+_G_G_	gormy	_____	haven	GGGGG				
+_G_G_	gormy	_Y___	oaken	GGGGG				
+_G_G_	gormy	__Y__	caper	_G_GY	raven	GGGGG		
+_G_G_	gormy	__Y__	caper	_G_GG	waver	_G_GG	baker	GGGGG
+_G_G_	gormy	__Y__	caper	_G_GG	waver	GG_GG	wafer	GGGGG
+_G_G_	gormy	__Y__	caper	_G_GG	waver	GGGGG		
+_G_G_	gormy	__Y__	caper	YG_GG	racer	GGGGG		
+_G_G_	gormy	__Y__	caper	_GGGG	paper	GGGGG		
+_G_G_	gormy	__Y__	caper	GGGGG				
+_G_G_	gormy	Y_Y__	wager	_GGGG	eager	GGGGG		
+_G_G_	gormy	Y_Y__	wager	GGGGG				
+_G_G_	gormy	G_Y__	gazer	GGGGG				
+_G_G_	gormy	__G__	parer	_GGGG	rarer	GGGGG		
+_G_G_	gormy	__G__	parer	GGGGG				
+_G_G_	gormy	_Y_Y_	cameo	GGGGG				
+_G_G_	gormy	__YY_	ramen	YGYG_	maker	GGGGG		
+_G_G_	gormy	__YY_	ramen	GGGGG				
+_G_G_	gormy	G_YY_	gamer	GGGGG				
+_G_G_	gormy	__GY_	harem	GGGGG				
+_G_G_	gormy	____Y	payee	GGGGG				
+_G_G_	gormy	__Y_Y	payer	GGGGG				
+_G_G_	gormy	G_Y_Y	gayer	GGGGG				
+_G_G_	gormy	Y___G	cagey	GGGGG				
+GG_G_	safer	GG_GG	saner	GGGGG				
+GG_G_	safer	GGGGG						
+__YG_	bevor	_Y___	picky	_____	wheel	___GY	lumen	GGGGG
+__YG_	bevor	_Y___	picky	_____	wheel	GGGGG		
+__YG_	bevor	_Y___	picky	Y____	expel	GGGGG		
+__YG_	bevor	_Y___	picky	YY___	impel	GGGGG		
+__YG_	bevor	_Y___	picky	GY___	plied	GGGGG		
+__YG_	bevor	_Y___	picky	_G___	linen	GGGGG		
+__YG_	bevor	_Y___	picky	GG___	pixel	GGGGG		
+__YG_	bevor	_Y___	picky	__Y__	clued	GGGGG		
+__YG_	bevor	_Y___	picky	__G__	excel	GGGGG		
+__YG_	bevor	_Y___	picky	___Y_	kneel	GGGGG		
+__YG_	bevor	_Y___	picky	_G_Y_	liken	GGGGG		
+__YG_	bevor	YY___	libel	GGGGG				
+__YG_	bevor	GY___	bleed	GGGG_	bleep	GGGGG		
+__YG_	bevor	GY___	bleed	GGGGG				
+__YG_	bevor	_G___	jewel	GGGGG				
+__YG_	bevor	GG___	bezel	GGGGG				
+__YG_	bevor	_GG__	level	GGGGG				
+__YG_	bevor	GGG__	bevel	GGGGG				
+__YG_	bevor	_Y_Y_	model	_YGGY	olden	GGGGG		
+__YG_	bevor	_Y_Y_	model	_GYGG	dowel	GGGGG		
+__YG_	bevor	_Y_Y_	model	GGGGG				
+__YG_	bevor	GY_Y_	bowel	GGGGG				
+__YG_	bevor	_YYY_	vowel	GGGGG				
+__YG_	bevor	_YGY_	hovel	_GGGG	novel	GGGGG		
+__YG_	bevor	_YGY_	hovel	GGGGG				
+__YG_	bevor	_Y__Y	gruel	_GGGG	cruel	GGGGG		
+__YG_	bevor	_Y__Y	gruel	GGGGG				
+__YG_	bevor	_G__Y	repel	GGGGG				
+__YG_	bevor	YG__Y	rebel	GGGGG				
+__YG_	bevor	_GG_Y	revel	GGGGG				
+__YG_	bevor	_Y__G	flick	_G___	elder	GGGGG		
+__YG_	bevor	_Y__G	flick	GG___	flyer	GGGGG		
+__YG_	bevor	_Y__G	flick	_YY__	liner	GGGGG		
+__YG_	bevor	_Y__G	flick	_GG__	plier	GGGGG		
+__YG_	bevor	_Y__G	flick	GGG__	flier	GGGGG		
+__YG_	bevor	_Y__G	flick	_G_Y_	ulcer	GGGGG		
+__YG_	bevor	GY__G	bluer	GGGGG				
+__YG_	bevor	_G__G	leper	GGGGG				
+__YG_	bevor	_YG_G	liver	GGGGG				
+__YG_	bevor	_GG_G	lever	GGGGG				
+__YG_	bevor	_Y_YG	lower	YY_GG	older	GGGGG		
+__YG_	bevor	_Y_YG	lower	GGGGG				
+__YG_	bevor	_YGYG	lover	GGGGG				
+Y_YG_	loser	GGGGG						
+G_YG_	spiel	G__GY	sleek	GGGGG				
+G_YG_	spiel	GY_GY	sleep	GGGGG				
+G_YG_	spiel	GGGGG						
+_YYG_	alien	GY_GY	angel	GGGGG				
+_YYG_	alien	GGGGG						
+_GYG_	lynch	Y____	gavel	YG_GG	bagel	GGGGG		
+_GYG_	lynch	Y____	gavel	GGGGG				
+_GYG_	lynch	G____	lapel	GG_G_	lager	GGGGG		
+_GYG_	lynch	G____	lapel	GG_GG	label	GGGGG		
+_GYG_	lynch	G____	lapel	GGGGG				
+_GYG_	lynch	GY___	layer	GGGGG				
+_GYG_	lynch	Y_Y__	navel	GGGGG				
+_GYG_	lynch	G_Y__	laden	GGGGG				
+_GYG_	lynch	Y_G__	panel	GGGGG				
+_GYG_	lynch	Y__Y_	camel	GGGGG				
+_GYG_	lynch	Y___Y	hazel	GGGGG				
+YGYG_	easel	GGGGG						
+__GG_	cigar	_____	melee	GGGGG				
+__GG_	cigar	__Y__	golem	GGGGG				
+__GG_	cigar	____G	ruler	GGGGG				
+__GG_	cigar	_Y__G	idler	GGGGG				
+__GG_	cigar	_G__G	filer	GGGGG				
+_YGG_	alley	G_GG_	abled	GGGGG				
+_YGG_	alley	GGGGG						
+_GGG_	paler	_GGGG	baler	GGGGG				
+_GGG_	paler	GGGGG						
+____Y	north	___Y_	timid	GGGGG				
+____Y	north	Y__Y_	tunic	G_YY_	tying	GGGGG		
+____Y	north	Y__Y_	tunic	GGGGG				
+____Y	north	_Y_Y_	outdo	G_G__	optic	GGGGG		
+____Y	north	_Y_Y_	outdo	GGG_G	outgo	GGGGG		
+____Y	north	_Y_Y_	outdo	GGGGG				
+____Y	north	_G_Y_	topic	GG___	toddy	GGGGG		
+____Y	north	_G_Y_	topic	YG_G_	motif	GGGGG		
+____Y	north	_G_Y_	topic	GG_GG	toxic	GGGGG		
+____Y	north	_G_Y_	topic	GGGGG				
+____Y	north	YG_Y_	toxin	GG_GY	tonic	GGGGG		
+____Y	north	YG_Y_	toxin	GGGGG				
+____Y	north	__YY_	trick	GG___	trump	GGGGG		
+____Y	north	__YY_	trick	GG_GG	truck	GGGGG		
+____Y	north	__YY_	trick	GGGGG				
+____Y	north	Y_YY_	trunk	GGGGG				
+____Y	north	_YYY_	tutor	G__GY	troop	GGGGG		
+____Y	north	_YYY_	tutor	GG_GG	tumor	GGGGG		
+____Y	north	_YYY_	tutor	GGGGG				
+____Y	north	YYYY_	intro	GGGGG				
+____Y	north	_GYY_	motor	_GGGG	rotor	GGGGG		
+____Y	north	_GYY_	motor	GGGGG				
+____Y	north	_YGY_	turbo	GGGGG				
+____Y	north	___G_	batik	__G__	putty	GGGGG		
+____Y	north	___G_	batik	__YY_	fifty	GGGGG		
+____Y	north	___G_	batik	__GY_	ditty	_GGGG	witty	GGGGG
+____Y	north	___G_	batik	__GY_	ditty	GGGGG		
+____Y	north	___G_	batik	G_GY_	bitty	GGGGG		
+____Y	north	___G_	batik	__GYY	kitty	GGGGG		
+____Y	north	Y__G_	minty	_YYGG	unity	GGGGG		
+____Y	north	Y__G_	minty	GGGGG				
+____Y	north	G__G_	nutty	GGGGG				
+____Y	north	_Y_G_	ditto	GGGGG				
+____Y	north	YY_G_	pinto	__GGG	junto	GGGGG		
+____Y	north	YY_G_	pinto	GGGGG				
+____Y	north	_G_G_	motto	_G_G_	pouty	GGGGG		
+____Y	north	_G_G_	motto	_G_GY	booty	GGGGG		
+____Y	north	_G_G_	motto	GGGGG				
+____Y	north	__YG_	fritz	GGGGG				
+____Y	north	__GG_	dirty	GGGGG				
+____Y	north	_GGG_	forty	GGGGG				
+____Y	north	___YY	pithy	__YY_	thumb	GGGGG		
+____Y	north	___YY	pithy	Y_YY_	thump	GGGGG		
+____Y	north	___YY	pithy	_YYY_	thick	GGGGG		
+____Y	north	___YY	pithy	_YYGG	itchy	GGGGG		
+____Y	north	___YY	pithy	GGGGG				
+____Y	north	Y__YY	think	GGGG_	thing	GGGGG		
+____Y	north	Y__YY	think	GGGGG				
+____Y	north	YY_YY	thong	GGGGG				
+____Y	north	__YYY	third	GGGGG				
+____Y	north	YYYYY	thorn	GGGGG				
+____Y	north	__GYY	thrum	GGGGG				
+____Y	north	_YGYY	throw	GGGG_	throb	GGGGG		
+____Y	north	_YGYY	throw	GGGGG				
+____Y	north	_Y_GY	photo	GGGGG				
+____Y	north	___YG	biped	_____	hutch	GGGGG		
+____Y	north	___YG	biped	G____	butch	GGGGG		
+____Y	north	___YG	biped	_Y___	thigh	GGGGG		
+____Y	north	___YG	biped	_G___	hitch	_GGGG	witch	GGGGG
+____Y	north	___YG	biped	_G___	hitch	GGGGG		
+____Y	north	___YG	biped	_GY__	pitch	GGGGG		
+____Y	north	___YG	biped	____Y	dutch	GGGGG		
+____Y	north	___YG	biped	_G__Y	ditch	GGGGG		
+____Y	north	_G_YG	tough	YG__G	botch	GGGGG		
+____Y	north	_G_YG	tough	GGG_G	touch	GGGGG		
+____Y	north	_G_YG	tough	GGGGG				
+____Y	north	GG_YG	notch	GGGGG				
+____Y	north	_GGYG	torch	GGGGG				
+____Y	north	___GG	width	_G_GG	fifth	GGGGG		
+____Y	north	___GG	width	GGGGG				
+____Y	north	G__GG	ninth	GGGGG				
+____Y	north	_Y_GG	quoth	GGGGG				
+____Y	north	_G_GG	batty	___G_	mouth	GGGGG		
+____Y	north	_G_GG	batty	G__G_	booth	GGGGG		
+____Y	north	_G_GG	batty	__YG_	tooth	GGGGG		
+____Y	north	_G_GG	batty	___GY	youth	GGGGG		
+____Y	north	YG_GG	month	GGGGG				
+____Y	north	__YGG	truth	GGGGG				
+____Y	north	_YYGG	froth	_GGGG	broth	GGGGG		
+____Y	north	_YYGG	froth	GGGGG				
+____Y	north	__GGG	biome	_G___	girth	GGGGG		
+____Y	north	__GGG	biome	GG___	birth	GGGGG		
+____Y	north	__GGG	biome	_G_Y_	mirth	GGGGG		
+____Y	north	_GGGG	forth	_GGGG	worth	GGGGG		
+____Y	north	_GGGG	forth	GGGGG				
+____Y	north	GGGGG						
+Y___Y	gourd	_____	tipsy	GGGGG				
+Y___Y	gourd	__Y__	musty	GGGGG				
+Y___Y	gourd	G_Y__	gusty	GGGGG				
+Y___Y	gourd	GYY__	gusto	GGGGG				
+Y___Y	gourd	_G_Y_	torso	GGGGG				
+Y___Y	gourd	__YY_	rusty	GGGGG				
+Y___Y	gourd	_GYY_	torus	GGGGG				
+Y___Y	gourd	__GY_	truss	GGGGG				
+Y___Y	gourd	__Y_Y	dusty	GGGGG				
+G___Y	pinko	_____	study	GGG__	stuff	GGGGG		
+G___Y	pinko	_____	study	GGGGG				
+G___Y	pinko	Y____	stump	GGGGG				
+G___Y	pinko	_Y___	stiff	GYG__	smith	GGGGG		
+G___Y	pinko	_Y___	stiff	GGGGG				
+G___Y	pinko	YY___	strip	GGGGG				
+G___Y	pinko	_G___	sixth	GGGG_	sixty	GGGGG		
+G___Y	pinko	_G___	sixth	GGGGG				
+G___Y	pinko	__Y__	stung	GGGGG				
+G___Y	pinko	_YY__	sting	GGGGG				
+G___Y	pinko	___Y_	stuck	GGGGG				
+G___Y	pinko	_Y_Y_	stick	GGGGG				
+G___Y	pinko	__YY_	stunk	GGGGG				
+G___Y	pinko	_YYY_	stink	GGGGG				
+G___Y	pinko	____Y	story	GYY__	south	GGGGG		
+G___Y	pinko	____Y	story	GYG__	sooth	GGGGG		
+G___Y	pinko	____Y	story	GGG__	stood	GGGGG		
+G___Y	pinko	____Y	story	GGGG_	storm	GGGGG		
+G___Y	pinko	____Y	story	GYG_G	sooty	GGGGG		
+G___Y	pinko	____Y	story	GGGGG				
+G___Y	pinko	Y___Y	stomp	GGG_G	stoop	GGGGG		
+G___Y	pinko	Y___Y	stomp	GGGGG				
+G___Y	pinko	_Y__Y	stoic	GGGGG				
+G___Y	pinko	__Y_Y	stony	GGGGG				
+G___Y	pinko	___YY	stork	GGG_G	stock	GGGGG		
+G___Y	pinko	___YY	stork	GGGGG				
+_Y__Y	again	Y____	today	YY_Y_	quota	GGGGG		
+_Y__Y	again	Y____	today	GG_G_	topaz	GGGGG		
+_Y__Y	again	Y____	today	GGGGG				
+_Y__Y	again	G____	actor	GGGGG				
+_Y__Y	again	G_Y__	aorta	GGGGG				
+_Y__Y	again	__G__	track	YGG__	wrath	GGGGG		
+_Y__Y	again	__G__	track	GGG__	tramp	GGGGG		
+_Y__Y	again	__G__	track	GGGGG				
+_Y__Y	again	Y__Y_	triad	GGGGG				
+_Y__Y	again	G__Y_	amity	GGGGG				
+_Y__Y	again	Y_GY_	tiara	GGGGG				
+_Y__Y	again	Y__G_	tibia	GGGGG				
+_Y__Y	again	G__G_	attic	GGGGG				
+_Y__Y	again	Y___Y	junta	GGGGG				
+_Y__Y	again	G___Y	aunty	GGGGG				
+_Y__Y	again	YY__Y	tonga	GGGGG				
+_Y__Y	again	__G_Y	thank	GGGGG				
+_Y__Y	again	_YG_Y	twang	GGGGG				
+_Y__Y	again	G__GY	antic	GGGGG				
+_Y__Y	again	Y__YG	titan	GGGGG				
+_Y__Y	again	__GGG	train	GGGGG				
+YY__Y	trash	Y_YY_	vista	GGGGG				
+YY__Y	trash	YGYG_	artsy	GGGGG				
+YY__Y	trash	GGGGG						
+GY__Y	prink	_____	staff	GYG__	swath	GGGGG		
+GY__Y	prink	_____	staff	GGG__	stash	GGGGG		
+GY__Y	prink	_____	staff	GGGGG				
+GY__Y	prink	Y____	stamp	GGGGG				
+GY__Y	prink	_Y___	stray	GGGG_	straw	GGGGG		
+GY__Y	prink	_Y___	stray	GGGGG				
+GY__Y	prink	YY___	strap	GGGGG				
+GY__Y	prink	__Y__	staid	GGGGG				
+GY__Y	prink	_YY__	stair	GGGGG				
+GY__Y	prink	__YY_	stain	GGGGG				
+GY__Y	prink	___G_	stand	GGGGG				
+GY__Y	prink	____G	stack	GGGGG				
+GY__Y	prink	_Y__G	stark	GGGGG				
+GY__Y	prink	___GG	stank	GGGGG				
+_G__Y	corby	_____	datum	_GY__	faith	GGGGG		
+_G__Y	corby	_____	datum	GGGGG				
+_G__Y	corby	Y____	humph	____G	watch	GGGGG		
+_G__Y	corby	Y____	humph	G___G	hatch	GGGGG		
+_G__Y	corby	Y____	humph	__Y_G	match	GGGGG		
+_G__Y	corby	Y____	humph	___YG	patch	GGGGG		
+_G__Y	corby	G____	catch	GGYY_	cacti	GGGGG		
+_G__Y	corby	G____	catch	GGGGG				
+_G__Y	corby	_Y___	patio	_GY_G	tango	GGGGG		
+_G__Y	corby	_Y___	patio	GGGGG				
+_G__Y	corby	__Y__	tapir	GGGGG				
+_G__Y	corby	_YY__	ratio	GGGGG				
+_G__Y	corby	Y__Y_	batch	GGGGG				
+_G__Y	corby	_Y_Y_	baton	YGYG_	taboo	GGGGG		
+_G__Y	corby	_Y_Y_	baton	GGGGG				
+_G__Y	corby	____G	feign	_____	patty	_GGGG	tatty	GGGGG
+_G__Y	corby	____G	feign	_____	patty	GGGGG		
+_G__Y	corby	____G	feign	Y____	taffy	GGGGG		
+_G__Y	corby	____G	feign	G____	fatty	GGGGG		
+_G__Y	corby	____G	feign	____Y	tawny	GGGGG		
+_G__Y	corby	____G	feign	___GY	tangy	GGGGG		
+_G__Y	corby	Y___G	tacky	GGGGG				
+_G__Y	corby	G___G	catty	GGGGG				
+_G__Y	corby	__Y_G	ratty	GGGGG				
+_G__Y	corby	__G_G	party	_GGYG	tardy	GGGGG		
+_G__Y	corby	__G_G	party	_GGGG	warty	GGGGG		
+_G__Y	corby	__G_G	party	GGGGG				
+_G__Y	corby	___YG	batty	GGGGG				
+_G__Y	corby	___GG	tabby	GGGGG				
+YG__Y	pithy	G_Y__	pasta	GGGGG				
+YG__Y	pithy	__Y_G	nasty	_GGGG	tasty	GGGGG		
+YG__Y	pithy	__Y_G	nasty	GGGGG				
+YG__Y	pithy	G_Y_G	pasty	GGGGG				
+YG__Y	pithy	G_G_G	patsy	GGGGG				
+YG__Y	pithy	__YYG	hasty	GGGGG				
+GG__Y	satyr	GGG__	satin	GGGGG				
+GG__Y	satyr	GGGGG						
+__Y_Y	troll	Y__Y_	blitz	GGGGG				
+__Y_Y	troll	Y_YY_	lofty	GGGGG				
+__Y_Y	troll	Y_GY_	cloth	GGGGG				
+__Y_Y	troll	GG_G_	truly	GGGGG				
+__Y_Y	troll	Y_YG_	hotly	GGGGG				
+__Y_Y	troll	Y___G	until	GGGGG				
+__Y_Y	troll	GY__G	twirl	GGGGG				
+__Y_Y	troll	GGGGG						
+Y_Y_Y	lusty	GGGGG						
+G_Y_Y	stool	GYG_Y	sloth	GGGGG				
+G_Y_Y	stool	GG__G	still	GGGGG				
+G_Y_Y	stool	GGGGG						
+_YY_Y	artic	Y_Y__	loath	Y_YY_	tubal	GGGGG		
+_YY_Y	artic	Y_Y__	loath	YGYY_	tonal	GGGGG		
+_YY_Y	artic	Y_Y__	loath	GGGGG				
+_YY_Y	artic	G_Y__	atoll	GGGGG				
+_YY_Y	artic	YGY__	trawl	GGGGG				
+_YY_Y	artic	Y_G__	total	GGGGG				
+_YY_Y	artic	G_G__	aptly	GGGGG				
+_YY_Y	artic	YYG__	ultra	GGGGG				
+_YY_Y	artic	GYG__	altar	GGGGG				
+_YY_Y	artic	Y_YY_	tidal	GGGGG				
+_YY_Y	artic	YGYY_	trial	GGGGG				
+_YY_Y	artic	Y_GY_	vital	GGGGG				
+_YY_Y	artic	YGYG_	trail	GGGGG				
+_YY_Y	artic	Y_G_Y	octal	GGGGG				
+GYY_Y	stalk	GGGG_	stall	GGGGG				
+GYY_Y	stalk	GGGGG						
+_GY_Y	natal	_GG_Y	latch	GGGGG				
+_GY_Y	natal	_GGGG	fatal	GGGGG				
+_GY_Y	natal	GGGGG						
+__G_Y	tulip	Y_GY_	filth	GGGGG				
+__G_Y	tulip	GGGGG						
+_GG_Y	tally	YGG__	waltz	GGGGG				
+_GG_Y	tally	GGG__	talon	GGGGG				
+_GG_Y	tally	GGGGG						
+GGG_Y	salty	GGGGG						
+___YY	trite	Y___Y	fetch	_GG__	detox	GGGGG		
+___YY	trite	Y___Y	fetch	GGGGG				
+___YY	trite	G___Y	tempo	GG___	teddy	GGGGG		
+___YY	trite	G___Y	tempo	GGGGG				
+___YY	trite	YY__Y	retro	GGG__	retch	GGGGG		
+___YY	trite	YY__Y	retro	_YGG_	entry	GGGGG		
+___YY	trite	YY__Y	retro	GGGG_	retry	GGGGG		
+___YY	trite	YY__Y	retro	_GGGG	metro	GGGGG		
+___YY	trite	YY__Y	retro	GGGGG				
+___YY	trite	GY__Y	tenor	GGGGG				
+___YY	trite	GG__Y	trend	GGGGG				
+___YY	trite	Y_Y_Y	fetid	_YYG_	ethic	GGGGG		
+___YY	trite	Y_Y_Y	fetid	GGGGG				
+___YY	trite	G_Y_Y	tepid	GGGGG				
+___YY	trite	GYY_Y	their	GGGGG				
+___YY	trite	___GY	depth	_YGG_	empty	GGGGG		
+___YY	trite	___GY	depth	_G_GY	hefty	GGGGG		
+___YY	trite	___GY	depth	GGGGG				
+___YY	trite	Y__GY	jetty	_GGGG	petty	GGGGG		
+___YY	trite	Y__GY	jetty	GGGGG				
+___YY	trite	G__GY	teeth	GG_GG	tenth	GGGGG		
+___YY	trite	G__GY	teeth	GGGGG				
+___YY	trite	_Y_GY	berth	GGGGG				
+___YY	trite	__YGY	piety	GGGGG				
+___YY	trite	__GGY	deity	GGGGG				
+___YY	trite	Y___G	etude	GGGGG				
+___YY	trite	G___G	theme	GG_GG	thyme	GGGGG		
+___YY	trite	G___G	theme	GGGGG				
+___YY	trite	GY__G	there	GGGGG				
+___YY	trite	GG__G	trove	GG__G	truce	GGGGG		
+___YY	trite	GG__G	trove	GGG_G	trope	GGGGG		
+___YY	trite	GG__G	trove	GGGGG				
+___YY	trite	Y_Y_G	cutie	_YGGG	untie	GGGGG		
+___YY	trite	Y_Y_G	cutie	GGGGG				
+___YY	trite	G_G_G	twice	GGG_G	twine	GGGGG		
+___YY	trite	G_G_G	twice	GGGGG				
+___YY	trite	GGG_G	bench	_Y___	tripe	GGGGG		
+___YY	trite	GGG_G	bench	YY___	tribe	GGGGG		
+___YY	trite	GGG_G	bench	_Y_G_	trice	GGGGG		
+___YY	trite	G_YYG	tithe	GGGGG				
+___YY	trite	___GG	chute	__YGG	quote	GGGGG		
+___YY	trite	___GG	chute	GGGGG				
+___YY	trite	Y__GG	butte	GGGGG				
+___YY	trite	_Y_GG	route	YG_GG	forte	GGGGG		
+___YY	trite	_Y_GG	route	GGGGG				
+___YY	trite	_G_GG	wrote	_G_GG	brute	GGGGG		
+___YY	trite	_G_GG	wrote	GGGGG				
+___YY	trite	__GGG	unite	__GGG	white	GGGGG		
+___YY	trite	__GGG	unite	Y_GGG	quite	GGGGG		
+___YY	trite	__GGG	unite	GGGGG				
+___YY	trite	_GGGG	write	GGGGG				
+___YY	trite	GGGGG						
+Y__YY	troth	Y____	fetus	GGGGG				
+Y__YY	troth	G____	tense	GGGGG				
+Y__YY	troth	GY___	terse	GGGGG				
+Y__YY	troth	___G_	zesty	GGGGG				
+Y__YY	troth	G__G_	testy	GGGGG				
+Y__YY	troth	__YG_	pesto	GGGGG				
+Y__YY	troth	G___Y	these	GGGGG				
+Y__YY	troth	Y_Y_Y	ethos	GGGGG				
+Y__YY	troth	G_G_Y	those	GGGGG				
+G__YY	mourn	_____	spite	GGGGG				
+G__YY	mourn	Y____	smite	GGGGG				
+G__YY	mourn	_Y___	stove	GGG_G	stoke	GGGGG		
+G__YY	mourn	_Y___	stove	GGGGG				
+G__YY	mourn	YY___	smote	GGGGG				
+G__YY	mourn	__Y__	suite	GY_YY	setup	GGGGG		
+G__YY	mourn	__Y__	suite	GGGGG				
+G__YY	mourn	_Y_G_	store	GGGGG				
+G__YY	mourn	_Y__Y	stone	GGGGG				
+G__YY	mourn	____G	stein	GGGGG				
+G__YY	mourn	___GG	stern	GGGGG				
+_Y_YY	crate	__YYY	tweak	GGGGG				
+_Y_YY	crate	_YYYY	terra	YY_GG	extra	GGGGG		
+_Y_YY	crate	_YYYY	terra	GGGGG				
+_Y_YY	crate	_GYYY	tread	GGGGG				
+_Y_YY	crate	Y_GYY	teach	GGGGG				
+_Y_YY	crate	_YGYY	teary	GGGGG				
+_Y_YY	crate	__YGY	theta	GGGGG				
+_Y_YY	crate	__GGY	heath	_GGG_	meaty	GGGGG		
+_Y_YY	crate	__GGY	heath	_GGGG	death	GGGGG		
+_Y_YY	crate	__GGY	heath	GGGGG				
+_Y_YY	crate	__YYG	atone	GGGGG				
+_Y_YY	crate	_GGYG	trade	GGGGG				
+_Y_YY	crate	YGGYG	trace	GGGGG				
+_Y_YY	crate	Y_YGG	acute	GGGGG				
+_Y_YY	crate	__GGG	abate	__GGG	ovate	GGGGG		
+_Y_YY	crate	__GGG	abate	G_GGG	agate	GGGGG		
+_Y_YY	crate	__GGG	abate	GGGGG				
+_Y_YY	crate	_GGGG	grate	_GGGG	irate	GGGGG		
+_Y_YY	crate	_GGGG	grate	GGGGG				
+_Y_YY	crate	GGGGG						
+YY_YY	tease	GGGGG						
+GY_YY	grike	____Y	stead	GGGG_	steam	GGGGG		
+GY_YY	grike	____Y	stead	GGGGG				
+GY_YY	grike	___YY	steak	GGGGG				
+GY_YY	grike	____G	stave	GGG_G	state	GGGGG		
+GY_YY	grike	____G	stave	GGGGG				
+GY_YY	grike	Y___G	stage	GGGGG				
+GY_YY	grike	_Y__G	stare	GGGGG				
+GY_YY	grike	___YG	skate	GGGGG				
+GY_YY	grike	___GG	stake	GGGGG				
+_G_YY	bathe	_GYYY	earth	GGGGG				
+_G_YY	bathe	_GYYG	haute	GGGGG				
+_G_YY	bathe	GGGGG						
+YG_YY	bench	_Y___	whelp	__Y__	taste	GGGGG		
+YG_YY	bench	_Y___	whelp	G_Y__	waste	GGGGG		
+YG_YY	bench	_Y___	whelp	__Y_Y	paste	GGGGG		
+YG_YY	bench	GY___	baste	GGGGG				
+YG_YY	bench	_Y_Y_	caste	GGGGG				
+YG_YY	bench	_Y__Y	haste	GGGGG				
+GG_YY	saute	GGGGG						
+__YYY	title	Y__YY	lefty	GGGGG				
+__YYY	title	__GYY	extol	GGGGG				
+__YYY	title	Y__YG	flute	GGGGG				
+__YYY	title	YY_YG	elite	GGGGG				
+__YYY	title	_GGYG	lithe	GGGGG				
+__YYY	title	YY_GG	utile	GGGGG				
+__YYY	title	GGGGG						
+G_YYY	stole	GG_GG	style	GGGGG				
+G_YYY	stole	GGGGG						
+_YYYY	champ	__Y__	fetal	GGGGG				
+_YYYY	champ	__G__	elate	GGGGG				
+_YYYY	champ	__YY_	metal	GGGGG				
+_YYYY	champ	__Y_Y	petal	GGGGG				
+_YYYY	champ	__G_Y	plate	GGGGG				
+GYYYY	stale	GGYYY	steal	GGGGG				
+GYYYY	stale	GYGYG	slate	GGGGG				
+GYYYY	stale	GGGGG						
+_GYYY	lathe	YGY_G	table	GGGGG				
+_GYYY	lathe	GGG_G	latte	GGGGG				
+_GYYY	lathe	GGGGG						
+__GYY	tilde	G_G_G	tulle	GGGGG				
+__GYY	tilde	GGGGG						
+_YGYY	delta	GGGGG						
+___GY	tutor	G____	tweed	G__G_	thief	GGGGG		
+___GY	tutor	G____	tweed	G_YG_	tepee	GGGGG		
+___GY	tutor	G____	tweed	GGGGG				
+___GY	tutor	G__Y_	token	GGGGG				
+___GY	tutor	__GY_	often	GGGGG				
+___GY	tutor	G_GY_	totem	GGGGG				
+___GY	tutor	G___Y	threw	G_YG_	tried	GGGGG		
+___GY	tutor	G___Y	threw	GGGG_	three	GGGGG		
+___GY	tutor	G___Y	threw	GGGGG				
+___GY	tutor	Y___G	ether	GGGGG				
+___GY	tutor	G___G	tiger	GG_GG	timer	GGGGG		
+___GY	tutor	G___G	tiger	GGGGG				
+___GY	tutor	GY__G	truer	GGGGG				
+___GY	tutor	GG__G	tuber	GGGGG				
+___GY	tutor	__G_G	deter	__GGG	inter	GGGGG		
+___GY	tutor	__G_G	deter	_YGGG	enter	GGGGG		
+___GY	tutor	__G_G	deter	_GGGG	meter	GGGGG		
+___GY	tutor	__G_G	deter	GGGGG				
+___GY	tutor	YYG_G	utter	GGGGG				
+___GY	tutor	Y__YG	other	GGGGG				
+___GY	tutor	G__YG	tower	GGGGG				
+___GY	tutor	__GYG	voter	GGGGG				
+___GY	tutor	Y_GYG	otter	GGGGG				
+___GY	tutor	_GGYG	outer	GGGGG				
+Y__GY	ester	GGGGG						
+G__GY	dwarf	_____	steep	GGGGG				
+G__GY	dwarf	Y____	steed	GGGGG				
+G__GY	dwarf	___Y_	steer	GGGGG				
+_Y_GY	after	GGGGG						
+_G_GY	there	Y_Y__	matey	GGGGG				
+_G_GY	there	G_Y__	taken	GGGGG				
+_G_GY	there	Y_YY_	cater	_GGGG	water	GGGGG		
+_G_GY	there	Y_YY_	cater	GGGGG				
+_G_GY	there	G_YY_	humph	_____	taker	GGGGG		
+_G_GY	there	G_YY_	humph	__G__	tamer	GGGGG		
+_G_GY	there	G_YY_	humph	___Y_	taper	GGGGG		
+_G_GY	there	YYYY_	hater	GGGGG				
+_G_GY	there	Y_Y_Y	eaten	GGGGG				
+_G_GY	there	Y_YYY	eater	GGGGG				
+__YGY	hotel	_GYGG	towel	GGGGG				
+__YGY	hotel	__GGG	betel	GGGGG				
+__YGY	hotel	_GGGG	motel	GGGGG				
+__YGY	hotel	GGGGG						
+G_YGY	steel	GGGGG						
+_YYGY	alter	GGGGG						
+_GYGY	later	GGGGG						
+____G	groin	_G___	crypt	GGGGG				
+____G	groin	__Y__	doubt	GGGGG				
+____G	groin	Y_Y__	ought	GGGGG				
+____G	groin	_YY__	robot	YG__G	court	GGGGG		
+____G	groin	_YY__	robot	GGGGG				
+____G	groin	_GG__	trout	GGGGG				
+____G	groin	GGG__	grout	GGGGG				
+____G	groin	___Y_	twixt	GGGGG				
+____G	groin	Y__Y_	dwarf	_____	might	_GGGG	tight	GGGGG
+____G	groin	Y__Y_	dwarf	_____	might	GGGGG		
+____G	groin	Y__Y_	dwarf	_Y___	wight	GGGGG		
+____G	groin	Y__Y_	dwarf	____Y	fight	GGGGG		
+____G	groin	YY_Y_	right	GGGGG				
+____G	groin	_G_Y_	drift	GGGGG				
+____G	groin	__YY_	idiot	Y__GG	pivot	GGGGG		
+____G	groin	__YY_	idiot	GGGGG				
+____G	groin	Y_YY_	bigot	GGGGG				
+____G	groin	Y__G_	digit	GGGGG				
+____G	groin	_G_G_	fruit	GGGGG				
+____G	groin	__YG_	vomit	GGGGG				
+____G	groin	_GYG_	orbit	GGGGG				
+____G	groin	_GGG_	droit	GGGGG				
+____G	groin	____Y	uncut	GGGGG				
+____G	groin	_Y__Y	burnt	GGGGG				
+____G	groin	_G__Y	brunt	GGGGG				
+____G	groin	GG__Y	grunt	GGGGG				
+____G	groin	__Y_Y	mount	_GYYG	donut	GGGGG		
+____G	groin	__Y_Y	mount	_GGGG	count	GGGGG		
+____G	groin	__Y_Y	mount	GGGGG				
+____G	groin	_GG_Y	front	GGGGG				
+____G	groin	___YY	input	GGGGG				
+____G	groin	Y__YY	night	GGGGG				
+____G	groin	_G_YY	print	GGGGG				
+____G	groin	__YYY	point	_GGGG	joint	GGGGG		
+____G	groin	__YYY	point	GGGGG				
+____G	groin	Y_YYY	ingot	GGGGG				
+____G	groin	___GY	unfit	GGGGG				
+Y___G	boric	_Y___	ghost	GGGGG				
+Y___G	boric	_G___	joust	GGGGG				
+Y___G	boric	GG___	boost	GGGGG				
+Y___G	boric	__Y__	tryst	GG_GG	trust	GGGGG		
+Y___G	boric	__Y__	tryst	GGGGG				
+Y___G	boric	_YY__	frost	GGGGG				
+Y___G	boric	_GY__	roost	GGGGG				
+Y___G	boric	G_G__	burst	GGGGG				
+Y___G	boric	_GG__	worst	GGGGG				
+Y___G	boric	___Y_	midst	_Y_GG	twist	GGGGG		
+Y___G	boric	___Y_	midst	GGGGG				
+Y___G	boric	_G_Y_	fehme	_____	joist	GGGGG		
+Y___G	boric	_G_Y_	fehme	G____	foist	GGGGG		
+Y___G	boric	_G_Y_	fehme	__Y__	hoist	GGGGG		
+Y___G	boric	_G_Y_	fehme	___Y_	moist	GGGGG		
+Y___G	boric	__YY_	wrist	GGGGG				
+Y___G	boric	__GY_	first	GGGGG				
+Y___G	boric	___G_	visit	GGGGG				
+Y___G	boric	_G_G_	posit	GGGGG				
+Y___G	boric	__Y_Y	crust	GGGGG				
+G___G	churn	_____	swift	GGGGG				
+G___G	churn	_Y___	sight	GGGGG				
+G___G	churn	_G___	shift	GG__G	shoot	GGGGG		
+G___G	churn	_G___	shift	GGGGG				
+G___G	churn	__Y__	stout	G_GGG	spout	GGGGG		
+G___G	churn	__Y__	stout	GGGGG				
+G___G	churn	Y_Y__	scout	GGGGG				
+G___G	churn	_GY__	shout	GGGGG				
+G___G	churn	__YY_	strut	GGGGG				
+G___G	churn	___G_	sport	G__GG	skirt	GGGGG		
+G___G	churn	___G_	sport	GGGGG				
+G___G	churn	_G_G_	short	GG_GG	shirt	GGGGG		
+G___G	churn	_G_G_	short	GGGGG				
+G___G	churn	__GG_	spurt	GGGGG				
+G___G	churn	____Y	stint	GGGGG				
+G___G	churn	__Y_Y	snout	GGGGG				
+G___G	churn	__G_Y	stunt	GGGGG				
+G___G	churn	_GG_Y	shunt	GGGGG				
+G___G	churn	___GY	snort	GGGGG				
+_Y__G	croup	_____	admit	Y__YG	giant	GGGGG		
+_Y__G	croup	_____	admit	G__GG	await	GGGGG		
+_Y__G	croup	_____	admit	GGGGG				
+_Y__G	croup	G____	chant	GGGGG				
+_Y__G	croup	GY___	chart	GGGGG				
+_Y__G	croup	_G___	graft	_GG_G	trait	GGGGG		
+_Y__G	croup	_G___	graft	GGG_G	grant	GGGGG		
+_Y__G	croup	_G___	graft	_GGGG	draft	GGGGG		
+_Y__G	croup	_G___	graft	GGGGG				
+_Y__G	croup	YG___	tract	GGGGG				
+_Y__G	croup	GG___	craft	GGGGG				
+_Y__G	croup	__Y__	abbot	GGGGG				
+_Y__G	croup	__G__	afoot	GGGGG				
+_Y__G	croup	_YG__	abort	GGGGG				
+_Y__G	croup	___Y_	audit	GGGGG				
+_Y__G	croup	_Y_Y_	quart	GGGGG				
+_Y__G	croup	__GG_	about	GGGGG				
+_Y__G	croup	____Y	adapt	GGGGG				
+_Y__G	croup	_Y__Y	apart	GGGGG				
+_Y__G	croup	__G_Y	adopt	GGGGG				
+YY__G	trace	Y_Y__	angst	GGGGG				
+YY__G	trace	Y_G__	boast	GGGGG				
+YY__G	trace	G_G__	toast	GGGGG				
+YY__G	trace	YYG__	roast	GGGGG				
+YY__G	trace	Y_YY_	ascot	GGGGG				
+YY__G	trace	Y_GY_	coast	GGGGG				
+GY__G	champ	__Y__	squat	GGGGG				
+GY__G	champ	__G__	start	GGGGG				
+GY__G	champ	Y_G__	scant	GGGGG				
+GY__G	champ	_GG__	shaft	GGGGG				
+GY__G	champ	__GY_	smart	GGGGG				
+_G__G	touch	Y____	faint	_GGGG	paint	GGGGG		
+_G__G	touch	Y____	faint	GGGGG				
+_G__G	touch	G____	taint	GGGGG				
+_G__G	touch	GY___	tarot	GGGGG				
+_G__G	touch	Y_Y__	gamut	GGGGG				
+_G__G	touch	Y_G__	judge	_Y___	vaunt	GGGGG		
+_G__G	touch	Y_G__	judge	GY___	jaunt	GGGGG		
+_G__G	touch	Y_G__	judge	_YY__	daunt	GGGGG		
+_G__G	touch	Y_G__	judge	_Y_Y_	gaunt	GGGGG		
+_G__G	touch	G_G__	taunt	GGGGG				
+_G__G	touch	Y__Y_	carat	GGGGG				
+_G__G	touch	G__Y_	tacit	GGGGG				
+_G__G	touch	Y_YY_	caput	GGGGG				
+_G__G	touch	Y___Y	habit	GGGGG				
+_G__G	touch	Y_G_Y	haunt	GGGGG				
+_G__G	touch	Y__YY	yacht	GGGGG				
+YG__G	waist	GGGGG						
+GG__G	saint	GGGGG						
+__Y_G	clung	_Y___	limit	GGGGG				
+__Y_G	clung	_G___	flirt	GGGGG				
+__Y_G	clung	_YY__	built	_GGGG	quilt	GGGGG		
+__Y_G	clung	_YY__	built	GGGGG				
+__Y_G	clung	_GY__	flout	GGGGG				
+__Y_G	clung	GGY__	clout	GGGGG				
+__Y_G	clung	_YG__	moult	GGGGG				
+__Y_G	clung	_GG__	blurt	GGGGG				
+__Y_G	clung	_G_G_	flint	GGGGG				
+__Y_G	clung	_GGG_	blunt	GGGGG				
+__Y_G	clung	_Y__Y	light	GGGGG				
+__Y_G	clung	_YY_Y	guilt	GGGGG				
+__Y_G	clung	_G_GY	glint	GGGGG				
+G_Y_G	spilt	G_GGG	stilt	GGGGG				
+G_Y_G	spilt	GGGGG						
+_YY_G	fling	_Y___	adult	GGGGG				
+_YY_G	fling	_G___	bloat	GGGGG				
+_YY_G	fling	YG___	aloft	GGGGG				
+_YY_G	fling	GG___	float	GGGGG				
+_YY_G	fling	_GY__	plait	GGGGG				
+_YY_G	fling	_G_G_	plant	GGGGG				
+_YY_G	fling	_G__Y	gloat	GGGGG				
+YYY_G	blast	GGGGG						
+GYY_G	shalt	G_GYG	slant	GGGGG				
+GYY_G	shalt	GGGGG						
+_GY_G	fault	_GGGG	vault	GGGGG				
+_GY_G	fault	GGGGG						
+__G_G	pilot	_YG_G	unlit	GGGGG				
+__G_G	pilot	GGGGG						
+G_G_G	split	GGGGG						
+_YG_G	allot	GGGGG						
+GYG_G	splat	GGGGG						
+___YG	curio	_____	event	__G_G	theft	GGGGG		
+___YG	curio	_____	event	GGGGG				
+___YG	curio	Y____	eject	GGGGG				
+___YG	curio	_Y___	debut	GGGGG				
+___YG	curio	__Y__	exert	GGGGG				
+___YG	curio	Y_Y__	erect	GGGGG				
+___YG	curio	G_Y__	crept	GGGGG				
+___YG	curio	_YY__	rebut	YY_YG	erupt	GGGGG		
+___YG	curio	_YY__	rebut	GGGGG				
+___YG	curio	YYY__	recut	GGGGG				
+___YG	curio	___Y_	inept	Y_Y_G	eight	GGGGG		
+___YG	curio	___Y_	inept	GGGGG				
+___YG	curio	Y__Y_	edict	G_GGG	evict	GGGGG		
+___YG	curio	Y__Y_	edict	GGGGG				
+___YG	curio	__YY_	inert	GGGGG				
+___YG	curio	___G_	debit	_GYGG	befit	GGGGG		
+___YG	curio	___G_	debit	GGGGG				
+___YG	curio	__YG_	remit	GG_GG	refit	GGGGG		
+___YG	curio	__YG_	remit	GGGGG				
+___YG	curio	__GG_	merit	GGGGG				
+___YG	curio	____Y	depot	GGGGG				
+___YG	curio	__Y_Y	overt	GGGGG				
+Y__YG	quich	_____	wrest	GGGGG				
+Y__YG	quich	_G___	guest	GGGGG				
+Y__YG	quich	GG___	quest	GGGGG				
+Y__YG	quich	__G__	exist	GGGGG				
+Y__YG	quich	___Y_	crest	GGGGG				
+Y__YG	quich	__G_Y	heist	GGGGG				
+Y__YG	quich	___YY	chest	GGGGG				
+G__YG	swept	G_G_G	scent	GGGGG				
+G__YG	swept	G_GYG	spent	GGGGG				
+G__YG	swept	GGGGG						
+_Y_YG	recap	_Y_Y_	agent	GGGGG				
+_Y_YG	recap	YY_Y_	avert	GGGGG				
+_Y_YG	recap	_G_Y_	meant	GGGGG				
+_Y_YG	recap	YG_Y_	heart	GGGGG				
+_Y_YG	recap	_YYY_	enact	G_GGG	exact	GGGGG		
+_Y_YG	recap	_YYY_	enact	GGGGG				
+_Y_YG	recap	GGYY_	react	GGGGG				
+_Y_YG	recap	_Y_G_	wheat	GGGGG				
+_Y_YG	recap	YY_G_	great	_GGGG	treat	GGGGG		
+_Y_YG	recap	YY_G_	great	GGGGG				
+_Y_YG	recap	_G_G_	begat	GGGGG				
+_Y_YG	recap	_YYG_	cheat	GGGGG				
+_Y_YG	recap	_Y_YY	adept	GGGGG				
+YY_YG	batty	_YY__	feast	GGGGG				
+YY_YG	batty	GYY__	beast	GGGGG				
+YY_YG	batty	_YY_Y	yeast	GGGGG				
+GY_YG	sweat	GGGGG						
+__YYG	unfed	___Y_	elect	GGGGG				
+__YYG	unfed	Y__Y_	exult	GGGGG				
+__YYG	unfed	_G_Y_	knelt	GGGGG				
+__YYG	unfed	__YY_	cleft	GGGGG				
+__YYG	unfed	___YY	dwelt	GGGGG				
+G_YYG	smelt	G_GYG	slept	GGGGG				
+G_YYG	smelt	G_GGG	spelt	GGGGG				
+G_YYG	smelt	GGGGG						
+_YYYG	recap	_Y_Y_	exalt	GGGGG				
+_YYYG	recap	YY_Y_	alert	GGGGG				
+_YYYG	recap	_G_Y_	leant	YGG_G	dealt	GGGGG		
+_YYYG	recap	_G_Y_	leant	GGGGG				
+_YYYG	recap	_Y_G_	bleat	GGGGG				
+_YYYG	recap	_YYG_	cleat	GGGGG				
+_YYYG	recap	_G_YY	leapt	GGGGG				
+_YYYG	recap	_Y_GY	pleat	GGGGG				
+YYYYG	least	GGGGG						
+_YGYG	eclat	GGGGG						
+___GG	cerne	_Y___	quiet	_G_GG	duvet	GGGGG		
+___GG	cerne	_Y___	quiet	GGGGG				
+___GG	cerne	YY___	octet	GGGGG				
+___GG	cerne	GY___	comet	GG_GG	covet	GGGGG		
+___GG	cerne	GY___	comet	GGGGG				
+___GG	cerne	_YY__	rivet	GGGGG				
+___GG	cerne	_Y_Y_	unmet	GGGGG				
+___GG	cerne	_Y__Y	tweet	GGGGG				
+___GG	cerne	_G__Y	beget	GGGGG				
+___GG	cerne	_YY_Y	greet	GGGGG				
+___GG	cerne	_YG_Y	egret	GGGGG				
+___GG	cerne	_GG_Y	beret	GGGGG				
+___GG	cerne	_G_YY	tenet	GGGGG				
+Y__GG	round	_____	beset	GGGGG				
+Y__GG	round	G____	reset	GGGGG				
+Y__GG	round	__Y__	upset	GGGGG				
+Y__GG	round	_Y_Y_	onset	GGGGG				
+Y__GG	round	__YY_	unset	GGGGG				
+G__GG	sweet	G_GGG	sheet	GGGGG				
+G__GG	sweet	GGGGG						
+YY_GG	asset	GGGGG						
+_G_GG	facet	_GYGG	cadet	GGGGG				
+_G_GG	facet	GGGGG						
+__YGG	fleet	GGGGG						
+G_YGG	sleet	GGGGG						
+__GGG	filet	_YGGG	inlet	GGGGG				
+__GGG	filet	GGGGG						
+Y_GGG	islet	GGGGG						
+_GGGG	valet	GGGGG						
